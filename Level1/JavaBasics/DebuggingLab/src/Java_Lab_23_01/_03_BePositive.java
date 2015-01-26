@@ -6,23 +6,18 @@ import java.util.Scanner;
 public class _03_BePositive {
 	public static void main(String[] args) {
 		@SuppressWarnings("resource")
-		Scanner scn = new Scanner(System.in);
-		
+		Scanner scn = new Scanner(System.in);		
 		int countSequences = scn.nextInt();
 		//
-		
+		scn.nextLine();
 		for (int i = 0; i < countSequences; i++) {
-			scn.nextLine();
+			//
 			String[] input = scn.nextLine().trim().split("[ ]+");
-			int[] nums = new int[input.length];
-			
-			
-			
 			ArrayList<Integer> numbers = new ArrayList<>();
 			
 			for (int j = 0; j < input.length; j++) {
 				if (!input[j].equals("") ) {
-					int num = Integer.parseInt(input[i]);
+					int num = Integer.parseInt(input[j]);
 					numbers.add(num);	
 				}							
 			}
@@ -41,7 +36,12 @@ public class _03_BePositive {
 					if (currentNum > 0) {
 						System.out.printf("%d%s", currentNum, j == numbers.size() - 1 ? " " : "\n");
 						found = true;
-					}					
+						numbers.remove(j + 1);
+					}
+					//
+					else {
+						numbers.remove(j + 1);
+					}
 				}
 			}
 			
