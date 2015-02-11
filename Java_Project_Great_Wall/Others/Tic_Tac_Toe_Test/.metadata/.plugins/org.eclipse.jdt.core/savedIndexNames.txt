@@ -1,1 +1,0 @@
-INDEX VERSION 1.127+/home/tklasnakov/Documents/SoftUni/Great Wall/Great-Wall/Tic_Tac_Toe_Test/.metadata/.plugins/org.eclipse.jdt.core
