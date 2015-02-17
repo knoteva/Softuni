@@ -1,0 +1,17 @@
+* { margin: 0; padding: 0; }
+img {
+	height: 200px;
+    width: 200px;
+}
+table {
+    margin: 10px;
+    border: 2px solid black;
+    height: 220px;
+    width: 220px;
+}
+td {
+    padding: 10px;
+    border: 2px solid black;
+    font-family: Tahoma;
+    font-size: 2.2em;
+}
