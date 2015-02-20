@@ -31,7 +31,7 @@ article {
     
 }
 li a:before {
-  content: url('images/CheckList.png');  
+  content: url('CheckList.png');  
 }
 li {
 	display: block;
