@@ -12,6 +12,7 @@ function repeat($nums)
     }
 
    if (count($result) > 0) {
+echo(result)."\n";
         print_r(join(", ", $result));
     } else {
         echo "no";

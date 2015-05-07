@@ -4,7 +4,7 @@ function dump($var) {
     if (is_numeric($var)) {
         echo var_dump($var);
     } else {
-    echo gettype($var);
+    echo gettype($var) . "\n";
     }
 }
 

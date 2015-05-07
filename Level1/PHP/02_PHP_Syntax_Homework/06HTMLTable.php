@@ -9,10 +9,12 @@
                 }
                 tr, th, td{
                     border: 1px solid black;
+                    padding: 5px;
                 }
                 th {
                     background-color: orange;
                     text-align: left;
+                }
                 td {
                     text-align: right;
                 }
