@@ -29,7 +29,7 @@ internal class GenericArraySort
             sorted.Add(x);
             temp.Remove(x);
         }
-        return String.Join(", ", temp);
+        //return String.Join(", ", temp);
         return String.Join(", ", sorted);
     }
 }
