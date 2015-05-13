@@ -11,7 +11,7 @@ class UnicodeCharacters
         string input = Console.ReadLine();
         foreach (var ch in input)
         {
-            int num = Convert.ToInt32(((int)ch).ToString());
+            int num = Convert.ToInt32(ch));
             Console.Write("\\u{0:x4}", num);
         }
         Console.WriteLine();
