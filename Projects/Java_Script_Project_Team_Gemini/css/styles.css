@@ -1,0 +1,185 @@
+html, body {
+    top:0;
+    padding: 0;
+    margin: 0 auto;
+	
+}
+body{
+ 
+}
+
+@font-face {  
+	font-family: Shoguns-Clan;
+    src: url("Shoguns-Clan.ttf");
+}
+
+@font-face {
+	font-family: Underodd;
+    src: url(Underodd.ttf);
+	
+}
+
+@font-face {
+	font-family: Kocoon-Light;
+    src: url(Kocoon-Light.otf);
+	
+}
+
+#playGround {
+    display: flex;
+    margin: 0 auto;
+    /*width: 890px;*/
+    justify-content: center;
+    align-items: stretch;
+    background-color: gray;
+    border-top: solid 5px rgb(47, 47, 47);
+    border-bottom: solid 5px rgb(47, 47, 47);
+    border-left: solid 8px rgb(47, 47, 47);
+    border-right: solid 8px rgb(47, 47, 47);
+    box-sizing: border-box;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/bg.jpg);
+    min-width: 505px;
+}
+#playboard {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 76% !important;
+}
+#gameboard{
+    max-height: 100%;
+    max-width: 100%;
+}
+div#main {
+    /* background-color: khaki; */
+    /*margin: 0 auto;*/
+    /*padding: 0; */
+    background-color: gray;
+    min-height: 400px;
+    min-width: 400px;
+}
+div#side {
+    /*width: 220px;*/
+    border-left: solid 7px rgb(47, 47, 47);
+    background-color: #808080;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 100px;
+}
+div#dice-section {
+    display: flex;
+    flex-direction: column;   
+}
+#dice {
+    background-image: url(../images/dice.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+/*  width: 150px;
+    height: 150px;
+    float: left; */
+    max-width: 100%;
+}
+div#dice-section canvas {
+    padding: 4px 4px 1px 4px;
+    border-radius: 26px;
+    margin: 5px;
+    width: 93%;
+}
+#dice-section > p {
+    color: white;
+    text-align: center;
+    margin: 0.2em 0;
+}
+#dice-section #player {
+    color: red;
+    font-weight: bold;
+}
+#buttondiv {
+    margin-top:0;
+    padding-top:0;
+}
+
+
+#menu ul {
+    list-style: none;
+    padding: 0;
+}
+#menu ul li {
+    width: 80%;
+    background-color: rgb(229, 166, 49);
+    margin: 10px auto;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 1.5em;
+    box-shadow: 2px -2px 9px #B0360A;
+}
+#menu a {
+    text-decoration: none;
+    color: white;
+}
+
+#player {
+	display:inline;
+	font-size:1.3em;
+	text-shadow:2px 2px 2px black;
+	letter-spacing:3px;
+}
+
+#scores {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding-left: 0.3em;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#scores>div {
+	margin-bottom:0.2em;
+	text-shadow:1px 1px 1px black;
+}
+
+#scores>div:nth-of-type(4) {
+	color:blue;
+	font-family:consolas;
+}
+
+#scores>div:nth-of-type(3) {
+	color:green;
+	font-family:Underodd;
+	font-size:0.8em;
+}
+
+#scores>div:nth-of-type(2) {
+	color:red;		
+	font-family:Shoguns-Clan;
+}
+
+#scores>div:nth-of-type(1) {
+	color:yellow;
+	font-family:Impact;
+	letter-spacing:2px;
+}
+
+#badtext {
+	font-family:Kocoon-Light;
+	font-size: 1.2em;
+	font-weight:bold;
+	text-shadow:1px 1px 1px black;
+}
+
+#scores p{
+    margin: 5px 0;
+    padding: 0 0.5em 0 0;
+    text-align: right;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+#dice-section>p:first-of-type {
+	 font-size: 1.5em;
+	 font-family:Verbana;
+	 font-weight:bold;
+	 text-shadow:2px 2px 2px black;
+}

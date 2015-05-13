@@ -1,0 +1,57 @@
+#main{
+	display: block;
+	overflow: auto;
+	min-height: 76.5vh;
+	padding: 1em;
+}
+section{
+	float: left;
+	width: 40%;
+	padding: 3em;
+}
+#main{
+    width: 100%;
+    background-image: url("http://images2.alphacoders.com/459/459548.jpg");
+    -webkit-box-shadow: inset 10px 2px 23px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 10px 2px 23px 0px rgba(0,0,0,0.75);
+    box-shadow: inset 10px 2px 23px 0px rgba(0,0,0,0.75);
+	
+}
+.paragraph{
+    
+    background-color: rgb(204, 229, 255);
+    margin: 1em;
+    padding: 1em;
+    -webkit-box-shadow: 1em -1em 1.7em 0em rgba(0,0,0,0.75);
+    -moz-box-shadow: 1em -1em 1.7em 0em rgba(0,0,0,0.75);
+    box-shadow: 1em -1em 1.7em 0em rgba(0,0,0,0.75);
+    width: 90%;
+    font-size: 20px;
+	
+	opacity:0.4;
+}
+#firstTeamMember
+{
+	text-color:black;float: right; width: 30%; margin: 5px; padding: 5px; border: solid 1px #E5E5FF; background: #E5F2FF; 
+}
+#secondMember{
+	float: right; width: 30%; margin: 5px; padding: 5px; border: solid 1px #E5E5FF; background: #E5F2FF;
+}
+#ThirdMember{
+	float: right; width: 30%; margin: 5px; padding: 5px; border: solid 1px #E5E5FF; background: #E5F2FF;
+}
+#forthMember{
+	float: right; width: 30%; margin: 5px; padding: 5px; border: solid 1px #E5E5FF; background: #E5F2FF;
+}
+#fifthMember{
+	float: right; width: 30%; margin: 5px; padding: 5px; border: solid 1px #E5E5FF; background: #E5F2FF;
+}
+#sixthMember{
+	float: right; width: 30%; margin: 5px; padding: 5px; border: solid 1px #E5E5FF; background: #E5F2FF;
+}
+section{
+color:black;
+
+
+
+}

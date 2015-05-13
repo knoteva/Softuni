@@ -1,0 +1,275 @@
+
+html, body{
+    height: auto;
+    font-family: Arial;
+}
+
+
+main{
+    background-image: url("http://images2.alphacoders.com/459/459548.jpg");
+    -webkit-box-shadow: inset 10px 2px 23px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 10px 2px 23px 0px rgba(0,0,0,0.75);
+    box-shadow: inset 10px 2px 23px 0px rgba(0,0,0,0.75);
+}
+header{
+    background-color: #49708A;
+}
+
+article {
+    background-color: rgb(204, 229, 255);
+    margin: 1em;
+    padding: 1em;
+    -webkit-box-shadow: 1em -1em 1.7em 0em rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1em -1em 1.7em 0em rgba(0, 0, 0, 0.75);
+    box-shadow: 1em -1em 1.7em 0em rgba(0, 0, 0, 0.75);
+    opacity: 0.4;
+
+}
+.Game {
+    width: 28%;
+    font-size: 20px;
+    color: black;
+    display: inline-block;
+
+}
+.joke {
+    width: 93%;
+    font-size: 20px;
+    color: black;
+    display: inline-block;
+}
+footer {
+    background-color: #49708A;
+    color: white;
+}
+
+footer div{
+    padding: 1em;
+    text-align: center;
+}
+footer>div:first-child{
+    text-align: right;
+    flex-grow: 1;
+}
+#validators{
+    text-align: left;
+    flex-grow: 1;
+}
+
+
+
+
+@media only screen and (max-width: 2400px){
+
+    html, body{
+        height: 100%;
+        font-family: Arial;
+    }
+    body{
+        background-color: #49708A;
+        margin: 0;
+    }
+    header{
+        display: flex;
+        padding: 0 1em;
+        text-transform: uppercase;
+        font-weight: bold;
+        background-image:url("C:\Users\ivaylo\Documents\GitHub\Team-Gemini-\Team-Gemini-\img\bg.jpg");
+    }
+    .header.navigation{
+        width: 100%;
+        display: inline-flex;
+        justify-content: space-between;
+
+    }
+    #btn-menu{
+        display: none;
+    }
+    /*set the logo size*/
+    div#logo{
+        width: 255px;
+    }
+
+    /*navigation menu*/
+    .navigation nav{
+        align-self: flex-end;
+    }
+    nav a{
+        text-decoration: none;
+        color: white;
+    }
+    nav ul{
+        position: relative;
+        list-style-type: none;
+        text-align: right;
+        display: inline-flex;
+        flex-direction: row;
+    }
+    .navigation>nav>ul{
+        font-size: 1.1em;
+        letter-spacing: 1px;
+        display: flex;
+        flex-direction: row;
+        margin: 0 auto;
+        align-items: flex-end;
+    }
+    nav>ul>li{
+        padding: 1em;
+        position: relative;
+        align-self: baseline;
+        border-top-left-radius: 0.5em;
+        border-top-right-radius: 0.5em;
+    }
+    #menu>nav>ul>li>span>a:after{
+        content: " \25BC";
+    }
+    /*sub menu*/
+
+    ul ul{
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background: #49708A;
+        z-index: 1000;
+        float: left;
+        padding: 0;
+        border-bottom-left-radius: 0.5em;
+        border-bottom-right-radius: 0.5em;
+    }
+    ul ul li{
+        white-space:nowrap;
+        float: none;
+        clear: both;
+        text-align: left;
+        padding: 0.5em;
+        border-radius: 0.5em;
+    }
+
+    /* === hover effects for the menu  === */
+    nav>ul>li:hover{
+        background-color: #49708A;
+    }
+    nav>ul>li:hover > ul{
+        display: block;
+        padding: 0.5em;
+        background-color: #8C8C8C;
+    }
+    nav>ul>li>ul>li:hover{
+        background-color: #F3F3F3;
+    }
+
+    /*Webpage content section*/
+    main{
+        display: block;
+        overflow: auto;
+        min-height: 76.5vh;
+        padding: 1em;
+
+    }
+    section{
+
+        width: 95%;
+        padding: 1em;
+    }
+    #news:first-letter,
+    #events:first-letter,
+    #video:first-letter{
+        text-transform: uppercase;
+        font-size: 3em;
+    }
+
+    /*=== Start FOOTER Start === */
+    footer{
+        position: relative;
+        bottom: 0;
+        width: 100%;
+        overflow: hidden;
+        clear: both;
+        background-color: #49708A;
+        display: inline-flex;
+        flex-direction: row;
+    }
+    footer div{
+        padding: 1em;
+        text-align: center;
+    }
+    footer>div:first-child{
+        text-align: right;
+        flex-grow: 1;
+    }
+    #validators{
+        text-align: left;
+        flex-grow: 1;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+
+    .navigation nav{
+        align-self:space-around;
+        align-items: center;
+    }
+    /*remove the down arrow representing a submenu*/
+    #menu>nav>ul>li>span>a:after{
+        content: "";
+    }
+    nav > ul > li{
+        padding: 0.5em;
+        align-items
+    }
+    nav a{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:  760px) {
+    header{
+        flex-direction: row-reverse;
+        background-image:url("C:\Users\ivaylo\Documents\GitHub\Team-Gemini-\Team-Gemini-\img\bg.jpg");
+    }
+    #btn-menu{
+        display: block;
+        justify-content: flex-end;
+        flex-grow: 1;
+
+        border: none;
+        background-color: #6BB06B;
+        color: #FFF;
+        margin: 1em 0.5em;
+        font-size: 1.5em;
+        width: 92%;
+    }
+    #btn-menu:after{
+        content: "\25BC";
+    }
+    .header nav ul{
+        display: none;
+        text-align: left;
+    }
+    #menu{
+
+        flex-grow: 1;
+        display: block;
+    }
+    /*	#menu:active>nav>ul,
+        #menu:hover>nav>ul{
+            display: block;
+            text-align: left;
+            padding-left: 0;
+        }*/
+    nav>ul>li:hover > ul{
+        display: block;
+        padding: 0.5em;
+        background-color: #F3F3F3;
+    }
+    ul ul{
+        position: relative;
+        margin-left: -0.5em;
+        width: 100%;
+        left: 0;
+    }
+    ul li ul li {
+        padding-left: 1.2em;
+    }
+}

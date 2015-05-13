@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Ludo Game</title>
+    <script src="Script/LudoScript.js"></script>
+    <link href="Style/LudoStyle.css" rel="stylesheet"/>
+</head>
+<body>
+    <main>
+        <section id="board"></section>
+
+        <div id="dice" onclick="diceRoll()"></div>
+
+        <div id="bug1" onclick="randomMove('bug',1)"></div>
+        <div id="bug2" onclick="randomMove('bug',2)"></div>
+        <div id="bug3" onclick="randomMove('bug',3)"></div>
+        <div id="bug4" onclick="randomMove('bug',4)"></div>
+
+        <div id="slime1" onclick="randomMove('slime',1)"></div>
+        <div id="slime2" onclick="randomMove('slime',2)"></div>
+        <div id="slime3" onclick="randomMove('slime',3)"></div>
+        <div id="slime4" onclick="randomMove('slime',4)"></div>
+
+        <div id="programmer1" onclick="randomMove('programmer',1)"></div>
+        <div id="programmer2" onclick="randomMove('programmer',2)"></div>
+        <div id="programmer3" onclick="randomMove('programmer',3)"></div>
+        <div id="programmer4" onclick="randomMove('programmer',4)"></div>
+
+        <div id="fire1" onclick="randomMove('fire',1)"></div>
+        <div id="fire2" onclick="randomMove('fire',2)"></div>
+        <div id="fire3" onclick="randomMove('fire',3)"></div>
+        <div id="fire4" onclick="randomMove('fire',4)"></div>
+
+        <div id="menu">
+            <ul>
+                <li><a href="index.html" title="Start new game">New Game</a></li>
+                <li><a href="rules.html" title="Game rules">Rules</a></li>
+                <li><a href="about.html" title="See the creators team">About Us</a></li>
+            </ul>
+        </div>
+
+        <h4 id="uselesstext1">It`s </h4><h3 id="player" style="float:left;">bug</h3><h4 id="uselesstext2">s turn</h4>
+        <p id="badtext" style="float:left;"></p>
+    </main>
+
+</body>
+</html>
+
+

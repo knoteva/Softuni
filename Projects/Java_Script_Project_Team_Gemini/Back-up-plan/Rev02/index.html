@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Не се сърди ЧоВеЧе</title>
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<div id="playGround" style="display: none">
+		<!-- gameboard section -->
+	    <div id="main">
+	        <canvas id="playboard"></canvas>
+	        <canvas id="gameboard"></canvas>	        
+	    </div>
+	    <!-- controls section -->
+	    <div id="side">
+		    <div id="dice-section">
+				<canvas id="dice" onclick="randomNum()"></canvas>
+				<p>Go</p>
+				<p id="player">Roll the dice</p>	
+	    		<p id="badtext"></p>
+			</div>
+		    <div id="buttondiv">
+				<!-- button -->
+		    </div>
+		    <div style="display:none;">
+		        <img id="redplayer" src="images/redplayer.png" /> 
+				 <img id="blueplayer" src="images/blueplayer.png" /> 
+				 <img id="greenplayer" src="images/greenplayer.png" /> 
+				 <img id="yellowplayer" src="images/yellowplayer.png"/>
+		    </div>
+		    <!-- game menu -->
+		    <div id="menu">
+		    	<ul>
+		    		<li><a href="index.html" title="Start new game">New Game</a></li>
+		    		<li><a href="rules.html" title="Game rules">Rules</a></li>
+		    		<li><a href="about.html" title="See the creators team">About Us</a></li>
+		    	</ul>
+		    </div>
+	    </div>
+	</div>
+	<script type="text/javascript" src="js/player.js"></script>	
+	<script type="text/javascript" src="js/ludoGame.js"></script>
+	<!-- <script type="text/javascript" src="js/dice.js"></script> -->
+	<script type="text/javascript" src="js/framework.js"></script>		 	
+</body>
+</html>

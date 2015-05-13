@@ -1,0 +1,152 @@
+body {
+    background-color: skyblue;
+}
+
+#board {
+    background: url("../resources/background.png");
+    width: 960px;
+    height: 950px;
+    position: relative;
+    float: left;
+    margin-left: 465px;
+}
+#programmer1 {
+    background: url("../resources/blueplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:705px;
+    left: 590px;
+}
+#programmer2 {
+    background: url("../resources/blueplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:705px;
+    left: 660px;
+}
+#programmer3 {
+    background: url("../resources/blueplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:775px;
+    left: 590px;
+}
+#programmer4 {
+    background: url("../resources/blueplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:775px;
+    left: 660px;
+}
+#fire1{
+    background: url("../resources/yellowplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:180px;
+    left: 590px;
+}
+#fire2{
+    background: url("../resources/yellowplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:180px;
+    left: 660px;
+}
+#fire3{
+    background: url("../resources/yellowplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:120px;
+    left: 660px;
+}
+#fire4{
+    background: url("../resources/yellowplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:120px;
+    left: 590px;
+}
+#bug1{
+    background: url("../resources/redplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:120px;
+    left: 1170px;
+}
+#bug2{
+    background: url("../resources/redplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:120px;
+    left: 1240px;
+}
+#bug3{
+    background: url("../resources/redplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:180px;
+    left: 1170px;
+}
+#bug4{
+    background: url("../resources/redplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:180px;
+    left: 1240px;
+}
+#slime1 {
+    background: url("../resources/greenplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:765px;
+    left: 1240px;
+}
+#slime2 {
+    background: url("../resources/greenplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:705px;
+    left: 1240px;
+}
+#slime3 {
+    background: url("../resources/greenplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:705px;
+    left: 1170px;
+}
+#slime4 {
+    background: url("../resources/greenplayer.png");
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top:765px;
+    left: 1170px;
+}
+#dice{
+    background-image:url(../resources/dice.gif);
+    background-size:contain;
+    width:150px;height:150px;
+    float:right;
+    margin-right: 150px;
+    margin-top: 100px;
+}
+#player {
+    font-size: 20px;
+    color: white;
+}

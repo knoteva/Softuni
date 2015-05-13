@@ -1,0 +1,346 @@
+﻿body {
+    background: #5a5a5a;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+#strip_menu {
+    display: none;
+}
+
+
+nav {
+    height: 90px;
+}
+
+    nav div {
+        line-height: 100px;
+        text-align: center;
+        /*margin-top: 30px;*/
+        float: right;
+        margin-right: 5px;
+        height: 100px;
+        width: 100px;
+        border: none;
+        color: white;
+        background-color: black;
+        transition: 0.512s;
+    }
+
+        nav div:hover {
+            line-height: 100px;
+            text-align: center;
+            /*margin-top: 30px;*/
+            margin-left: 2px;
+            float: right;
+            margin-right: 5px;
+            height: 100px;
+            width: 98px;
+            border: none;
+            color: yellow;
+            font-size: 20px;
+            background-color: #870000;
+            transition: 0.512s;
+        }
+
+#logo {
+    width: 250px;
+    height: 70px;
+    margin-left: 20px;
+    /*border: 1px solid white;*/
+    color: white;
+    font-size: 30px;
+    line-height: 70px;
+    text-align: center;
+    float: left;
+    margin-top: 15px;
+    background-image: url(images/logo.png);
+    background-size: 250px 70px;
+    background-repeat: no-repeat;
+}
+
+main {
+    width: 100%;
+    background-color: #5a5a5a;
+    height: 800px;
+}
+
+form {
+    width: 450px;
+    height: 420px;
+    margin: auto;
+    background: #5a5a5a;
+    margin-top: 50px;
+}
+
+/*main div {
+    display: inline-block;
+    width: 420px;
+    height: 350px;
+    margin-top: 30px;
+}*/
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+iframe {
+    border: none;
+}
+
+@media screen and (max-width: 930px) {
+
+    nav div {
+        width: 60px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+
+        nav div:hover {
+            line-height: 29px;
+            text-align: center;
+            margin-left: 1px;
+            float: right;
+            width: 59px;
+            height: 29px;
+            border: none;
+            color: yellow;
+            font-size: 12px;
+            background-color: darkgreen;
+            border-radius: 5px;
+            -webkit-border-top-left-radius: 5px 5px;
+            -webkit-border-top-right-radius: 5px 5px;
+            -webkit-border-bottom-left-radius: 5px 5px;
+            -webkit-border-bottom-right-radius: 5px 5px;
+            transition: 0.2s;
+        }
+}
+
+@media screen and (max-width: 740px) {
+    nav div {
+        display: none;
+    }
+}
+
+
+#frame1 {
+    z-index: 1;
+    width: 420px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+
+.overlay {
+    top: 105px;
+    /*left: 414px;*/
+    width: 35%;
+    height: 400px;
+    position: absolute;
+}
+
+#left_slide {
+    text-align: center;
+    line-height: 50px;
+    display: inline-block;
+    width: 140px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    transition:0.512s;
+}
+    #left_slide:hover {
+        background-color:#870000;
+        transition:0.512s;
+    }
+
+#right_slaid {
+    text-align: center;
+    line-height: 50px;
+    display: inline-block;
+    width: 140px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition:0.512s;
+}
+    #right_slaid:hover {
+        background-color:#870000;
+        transition:0.512s;
+    }
+
+
+#random_slide {
+    text-align: center;
+    line-height: 50px;
+    display: inline-block;
+    width: 140px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    margin-right: 5px;
+    transition:0.512s;
+}
+    #random_slide:hover {
+        background-color:#870000;
+        transition:0.512s;
+    }
+
+#slide_buttons {
+    background-color:black;
+    margin: auto;
+    width: 450px;
+    height: 50px;
+}
+
+
+#video_frame {
+    width: 800px;
+    height: 400px;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+
+    footer span {
+        font-size: 20px;
+        float: right;
+        margin-top: 30px;
+        margin-right: 50px;
+    }
+
+    footer a {
+        font-size: 20px;
+        float: left;
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+
+#left_side {
+    border-radius:5px;
+    background-color:black;
+    float: left;
+    display: inline-block;
+    width: 300px;
+    height: 700px;
+    border: 1px solid white;
+}
+
+#right_side {
+    border-radius:5px;
+    background-color:black;
+    float: right;
+    display: inline-block;
+    width: 300px;
+    height: 700px;
+    border: 1px solid white;
+}
+
+#left_side p {
+    border: 1px solid yellow;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    font-size: 15px;
+    line-height: 15px;
+    background-color: black;
+    color: yellow;
+}
+
+#img_1{
+    width:100%;
+    height:200px;
+    background-image:url('cool images/computer_message_screwed.jpg');
+    background-size:contain;
+    background-repeat:no-repeat;
+    margin-bottom:10px;
+}
+#img_2{
+    width:100%;
+    height:200px;
+    background-image:url('cool images/computer_message_update.jpg');
+    background-size:contain;
+    background-repeat:no-repeat;
+    margin-bottom:10px;
+}
+
+#img_3{
+    width:100%;
+    height:200px;
+    background-image:url('cool images/404_road.jpg');
+    background-size:contain;
+    background-repeat:no-repeat;
+    margin-bottom:10px;
+}
+
+
+
+@media screen and (max-width: 950px) {
+
+    #right_side {
+        width: 200px;
+    }
+
+    #left_side {
+        width: 200px;
+    }
+
+    #frame1 {
+        width: 300px;
+    }
+
+    form {
+        width: 300px;
+    }
+
+    #frame {
+        width: 300px;
+    }
+
+    #left_slide {
+        font-size: 12px;
+        width: 100px;
+    }
+
+    #right_slaid {
+        font-size: 12px;
+        width: 100px;
+    }
+
+    #random_slide {
+        font-size: 12px;
+        width: 100px;
+    }
+
+    #slide_buttons {
+        margin: auto;
+        width: 330px;
+        height: 50px;
+    }
+}
