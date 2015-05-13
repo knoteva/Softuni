@@ -1,0 +1,19 @@
+Todos:
+======
+
+2. Fix categories
+	- show the categories in a dropdown-box on submitting new post
+	- insert post category on post submit
+3. Create manage posts page
+4. Create manage pages page
+5. Create manage categories page
+7. Pagination!
+8. Profiles
+	- Option to change username
+	- Option to change password
+9. Add posts content
+	- At least 10 posts
+	- At least 20 tags
+	- At least 5 categories
+10. Add pages
+	- At least 2 pages (About, Contacts)

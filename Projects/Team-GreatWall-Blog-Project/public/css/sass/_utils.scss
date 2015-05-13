@@ -1,0 +1,52 @@
+/**
+ * utils.scss
+ *
+ * Defines some useful utility classes.
+ *
+ */
+.u-bold {
+    font-weight: 800;
+}
+
+.u-light {
+    font-weight: 300;
+}
+
+.u-right {
+    float: right;
+}
+
+.u-left {
+    float: left;
+}
+
+.u-right:after {
+    clear: both;
+    display: table;
+    content: "";
+    zoom: 1;
+}
+
+.u-text-right {
+    text-align: right;
+}
+
+.u-text-left {
+    text-align: left;
+}
+
+.u-text-center {
+    text-align: center;
+}
+
+.u-large-text {
+    font-size: 4em;
+}
+
+.u-upper {
+    text-transform: uppercase;
+}
+
+.u-lower {
+    text-transform: lowercase;
+}

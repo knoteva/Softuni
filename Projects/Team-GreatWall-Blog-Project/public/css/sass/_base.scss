@@ -1,0 +1,44 @@
+/**
+ * Base.scss
+ *
+ * Defines some base styles for the app.
+ *
+ */
+
+* {
+  box-sizing: border-box;  
+}
+
+body {
+    color: $c-dark;
+    font-family: $base-font;
+}
+
+a {
+    text-decoration: none;
+}
+
+::selection {
+	color: $c-light;	
+  	background: $c-accent; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+	color: $c-light;
+  	background: $c-accent; /* Gecko Browsers */
+}
+
+ul.non-bullet {
+    list-style: none;
+
+    li {
+        @include fade;
+
+        &:hover {
+            padding-left: 5px;
+        }
+    }
+}
+
+label {
+	font-weight: 300;
+}

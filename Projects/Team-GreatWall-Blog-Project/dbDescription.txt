@@ -1,0 +1,54 @@
+DB structure:
+=============
+
+users
+-----
+|_id
+|_username
+|_password          // hash it
+|_first_name
+|_last_name
+|_role              // admin, user
+
+posts
+-----
+|_id
+|_title
+|_content
+|_excerpt
+|_author_id
+|_category_id       // a post can have only one category
+|_publish_date
+|_status            // TINYINT - 1(true), 0(false) // visibility
+
+categories
+----------
+|_id
+|_title
+
+tags
+----
+|_id
+|_title
+
+taxonomy
+--------
+|_post_id
+|_tag_id
+
+http://stackoverflow.com/questions/5160307/how-can-i-create-a-tagging-system-using-php-and-mysql
+
+SELECT a.article_title
+    FROM Tag t
+        INNER JOIN Article_Tag_Xref atx
+            ON t.tag_id = atx.tag_id
+        INNER JOIN Article a
+            ON atx.article_id = a.article_id
+    WHERE t.tag_name = 'SelectedTagName'
+
+pages
+-----
+|_id
+|_title
+|_content
+|_status            // TINYINT again. // for visibility

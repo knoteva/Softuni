@@ -1,0 +1,59 @@
+/**
+ * modules.scss
+ *
+ * Defines modules used in this app.
+ *
+ */
+
+// Navs
+.nav {
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        
+        li {
+            margin-right: 1.2em;
+            display: inline-block;
+        }
+    }
+}
+
+a {
+    @include fade;
+}
+
+// Buttons
+.btn {
+    @include fade;
+    display: inline-block;
+    padding: 7px;
+    background: $c-mid - 10;
+    color: $c-dark;
+    
+    &:hover {
+        margin-left: 10px;
+        color: $c-light;
+        background: $c-accent;
+    }
+}
+
+// Inputs
+.full-input {
+    width: 100%;
+}
+
+.full-textarea {
+    max-width: 100%;
+    min-width: 100%;
+    height: 400px;
+}
+
+// Messages 
+.msg {
+    background: $c-accent;
+    color: $c-light;
+    padding: $base-gutter / 3;
+    margin: $base-gutter / 3 0;
+    border-radius: 5px;
+}

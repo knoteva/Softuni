@@ -1,0 +1,173 @@
+/**
+ * layout.scss
+ *
+ * Defines some layout related styles.
+ *
+ */
+
+// Top
+.header {
+    color: $c-light;
+    padding: $base-gutter 0;
+    background-image: url("../img/hero-darker.jpg");
+    background-size: cover;
+
+    input[type="text"] {
+        @include fade;
+        border: 0;
+        outline: 0;
+        text-align: center;
+        width: 300px;
+        background: rgba(255,255,255,.21);
+
+        &:hover {
+            width: 400px;
+            background: rgba(255,255,255,.31);
+        }
+    }
+}
+
+.welcome {
+    h5 {
+        margin-top: 0;
+    }
+    
+    padding: $base-gutter * 2;
+}
+
+// Middle
+.main {
+    border: 1px solid $c-mid;
+    margin-top: $base-gutter;
+    margin-bottom: $base-gutter;
+    padding: $base-gutter $base-gutter;
+}
+
+.post {
+
+    p:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    margin-bottom: $base-gutter;
+    padding-bottom: $base-gutter;
+    border-bottom: 1px solid $c-mid;
+    
+    &:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: none;
+    }
+}
+
+.post-meta {
+    padding-bottom: $base-gutter;
+}
+
+.post-content {
+    padding-top: $base-gutter / 2 0;
+}
+
+.post-tags {
+    margin-top: $base-gutter;
+    padding: $base-gutter / 3;
+    background: $c-mid;
+    border-left: 5px solid $c-accent;
+}
+
+.read-more {
+    padding-top: $base-gutter / 2;
+}
+
+.comments-section {
+    border: 5px solid $c-dark;
+    padding: $base-gutter;
+    margin-bottom: $base-gutter;
+
+    .comment-content {
+        padding-left: $base-gutter / 2;
+        padding-bottom: $base-gutter / 2;
+    }
+
+}
+
+.add-comment-section {
+    margin-top: $base-gutter / 2;
+}
+
+.profile-name {
+    font-size: 4em;
+    border-bottom: 1px solid $c-mid;
+    padding-bottom: $base-gutter / 1.2;
+    margin-bottom: $base-gutter / 1.2;
+}
+
+.profile-msg {
+    padding-bottom: $base-gutter / 2;
+    margin-bottom: $base-gutter / 2;
+    border-bottom: 1px solid $c-mid;
+}
+
+.pagination {
+    font-weight: 800;
+    
+    a {
+        color: $c-light;
+        
+        &:hover{
+            color: $c-light;
+        }
+    }
+    
+    ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+            
+        li {
+            @include fade;
+            display: inline-block;
+            background: $c-accent;
+            padding: 8px 15px;
+
+            &:hover {
+                background: $c-accent-hover;
+            }
+        }
+    }
+}
+
+.login-container,
+.register-container{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.list-item {
+    h5 {
+        margin-top: 4px;
+    }
+
+    .item-options {
+        margin-top: 10px;
+    }
+
+    padding: $base-gutter / 3 $base-gutter / 3 0 $base-gutter / 3;
+    border-top: 1px solid $c-dark;
+    border-left: 1px solid $c-dark;
+    border-right: 1px solid $c-dark;
+
+    &:last-child {
+        border-bottom: 1px solid $c-dark;
+    }
+}
+
+// Sidebar
+
+// Bottom
+.footer {
+    color: $c-mid - 50;
+    font-size: 12px;
+    padding-bottom: $base-gutter;
+}
