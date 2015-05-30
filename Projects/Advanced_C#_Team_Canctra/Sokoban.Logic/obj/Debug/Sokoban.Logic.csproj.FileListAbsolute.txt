@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\Team-CANCTRA\Team-CANCTRA\Sokoban.Logic\bin\Debug\Sokoban.Logic.dll
+C:\Users\Administrator\Documents\GitHub\Team-CANCTRA\Team-CANCTRA\Sokoban.Logic\bin\Debug\Sokoban.Logic.pdb
+C:\Users\Administrator\Documents\GitHub\Team-CANCTRA\Team-CANCTRA\Sokoban.Logic\obj\Debug\Sokoban.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Team-CANCTRA\Team-CANCTRA\Sokoban.Logic\obj\Debug\Sokoban.Logic.dll
+C:\Users\Administrator\Documents\GitHub\Team-CANCTRA\Team-CANCTRA\Sokoban.Logic\obj\Debug\Sokoban.Logic.pdb
+D:\Lessons\Sokoban\trunk\Sokoban.Logic\bin\Debug\Sokoban.Logic.dll
+D:\Lessons\Sokoban\trunk\Sokoban.Logic\bin\Debug\Sokoban.Logic.pdb
+D:\Lessons\Sokoban\trunk\Sokoban.Logic\obj\Debug\Sokoban.Logic.dll
+D:\Lessons\Sokoban\trunk\Sokoban.Logic\obj\Debug\Sokoban.Logic.pdb
+C:\Users\Katerina\Desktop\TeamCanctra\Сокобан\Sokoban.Logic\bin\Debug\Sokoban.Logic.dll
+C:\Users\Katerina\Desktop\TeamCanctra\Сокобан\Sokoban.Logic\bin\Debug\Sokoban.Logic.pdb
+C:\Users\Katerina\Desktop\TeamCanctra\Сокобан\Sokoban.Logic\obj\Debug\Sokoban.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Katerina\Desktop\TeamCanctra\Сокобан\Sokoban.Logic\obj\Debug\Sokoban.Logic.dll
+C:\Users\Katerina\Desktop\TeamCanctra\Сокобан\Sokoban.Logic\obj\Debug\Sokoban.Logic.pdb
