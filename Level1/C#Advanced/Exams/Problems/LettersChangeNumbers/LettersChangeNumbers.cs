@@ -30,10 +30,7 @@ class LettersChangeNumbers
         {
             return number / (c - 64);
         }
-        else
-        {
-            return number * (c - 96);
-        }
+        return number * (c - 96);
     }
 
     private static double NextChar(char c, double number)
@@ -42,10 +39,7 @@ class LettersChangeNumbers
         {
             return number - (c - 64);
         }
-        else
-        {
-            return number + (c - 96);
-        }
+        return number + (c - 96);
     }
 }
 
