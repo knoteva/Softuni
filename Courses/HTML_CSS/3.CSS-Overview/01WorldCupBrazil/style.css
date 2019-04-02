@@ -1,0 +1,103 @@
+* {margin: 0; padding: 0;
+}
+#cont {        
+    white-space: nowrap;
+    width: 900px;
+    height: 430px;  
+    background: #00923E;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: Tahoma;
+   text-align: center;
+}
+table {
+    width: 100%;
+    height: 100%;    
+    border-collapse: separate;
+	border-spacing: 0;
+	border-radius: 15px; 
+	overflow: hidden;
+    border: 1px solid black;
+}
+th {
+    background-color: #F8C711;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0;
+    border: 1px solid black;    
+    padding: 10px 5px 10px 5px; 	
+}
+td {
+	 border: 1px solid black; 
+	 padding: 10px 5px 10px 5px; 	
+}
+tr.white {
+	background: #FFFFFF;
+}
+tr.grey {
+	background: #C8C8C8;
+}
+td.right {
+	text-align: right;
+	vertical-align: cener;
+}
+td.left {
+	text-align: left;
+}
+#brasil p:after {
+	content: url('flags/Brazil.png');
+    padding: 2px;
+}
+#mexico p:before {
+    content: url('flags/Mexico.png');
+}
+#spain p:after {
+	content: url('flags/Spain.png');
+}
+#netherlands p:before {
+    content: url('flags/Netherlands.png');
+}
+#italy p:after {
+	content: url('flags/Italy.png');
+}
+#england p:before {
+    content: url('flags/England.png');
+}
+#argentina p:after {
+	content: url('flags/Argentina.png');
+}
+#herz p:before {
+    content: url('flags/BosniaАnd Herzegovinа.png');
+}
+#germany p:after {
+	content: url('flags/Germany.png');
+}
+#portugal p:before {
+    content: url('flags/Portugal.png');
+}
+.red-button button {    
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-repeat:no-repeat;
+    background-image: url('flags/RedB.png');
+}
+
+.green-button button {    
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-repeat:no-repeat; 
+    background-image: url('flags/GreenB.png');
+}
+select {
+    width: 35px;
+    height: 35px;
+    font-size: 1em;
+    color: green;
+}
+
+select[disabled] {
+    color: red;
+    background: #DCDCDC;
+}

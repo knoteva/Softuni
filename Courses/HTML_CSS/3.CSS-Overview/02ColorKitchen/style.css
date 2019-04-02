@@ -1,0 +1,119 @@
+﻿body {
+    background-image: url(images/colorful_dots_on_black.jpg);
+    font-family: Tahoma;
+    margin: 0;
+}
+body > header {
+	background: linear-gradient(to right, #ff0000 33.3%, #008000 33.3%, #008000 66.7%, #0000ff 66.7%);
+	text-align: center;
+	color: #FFFF00;
+	font-size: 30px;
+	font-weight: bold;
+}
+nav {
+	margin-top: 20px;
+	background-color: rgba(255, 255, 255, 0.9);
+	width: 250px;
+	height: inherit;
+	border-radius: 10px;
+	position: fixed;
+}
+article {
+    background-color: rgba(255, 255, 255, 0.9);
+    float: left;
+    width: 50%;
+    border-radius: 20px;
+    padding: 15px;
+    display: inline-block;
+    margin-right: 0;
+    margin: 20px 5px 5px 280px;
+
+    
+}
+li a:before {
+  content: url('images/CheckList.png');  
+}
+li {
+	display: block;
+}
+nav ul li a:visited {
+    color: grey;   
+}
+nav header {
+	font-size: 1.2em;
+	text-decoration: underline;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+#webColors {
+	background-color: #FF0000;
+	color: white;
+	height: 30px;
+}
+#webSafeColors {
+	background-color: #FFA500;
+	height: 30px;
+}
+#RGB {
+	background: yellow;
+	height: 30px;
+}
+#RGBA {
+	background: green;
+	color: white;
+	height: 30px;
+}
+#\#HSLHSV {
+	background: blue;
+	color: white;
+	height: 30px;
+}
+#\#lorem {
+	background: purple;
+	color: white;
+	height: 30px;
+}
+div {
+    margin-top: 0;
+    display: inline-block;
+}
+
+div::first-letter {
+    font-size: 60px !important;
+}
+
+div::first-line {
+    font-style: italic !important;
+}
+span:lang(la) {
+    color: #0000ff;
+    font-style: italic;
+}
+span:lang(la):before,  span:lang(la):after {
+    content: "\"";
+}
+body>aside>nav>ul li:hover:nth-child(1) {
+	background-color: red;
+	border-radius: 5px;
+}
+body>aside>nav>ul li:hover:nth-child(2) {
+	background-color: orange;
+	border-radius: 5px;
+}
+body>aside>nav>ul li:hover:nth-child(3) {
+	background-color: yellow;
+	border-radius: 5px;
+}
+body>aside>nav>ul li:hover:nth-child(4) {
+	background-color: green;
+	border-radius: 5px;
+}
+body>aside>nav>ul li:hover:nth-child(5) {
+	background-color: blue;
+	border-radius: 5px;
+}
+body>aside>nav>ul li:hover:nth-child(6) {
+	background-color: purple;
+	border-radius: 5px;
+}

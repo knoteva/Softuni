@@ -1,0 +1,10 @@
+{
+  "name": "02StringsLettersOrganizer",
+  "version": "0.0.0",
+  "description": "02StringsLettersOrganizer",
+  "main": "app.js",
+  "author": {
+    "name": "Katerina",
+    "email": ""
+  }
+}
