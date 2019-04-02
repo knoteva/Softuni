@@ -1,0 +1,10 @@
+{
+  "name": "03YoungestWithSmartphone",
+  "version": "0.0.0",
+  "description": "03YoungestWithSmartphone",
+  "main": "app.js",
+  "author": {
+    "name": "Katerina",
+    "email": ""
+  }
+}

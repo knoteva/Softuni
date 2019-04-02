@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0; }
+
+body {
+	background-color: #99C0DD;
+}
+p {
+	font-size: 4em;
+	text-align: center;
+	padding: 400px;
+	color: #FEC500;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
