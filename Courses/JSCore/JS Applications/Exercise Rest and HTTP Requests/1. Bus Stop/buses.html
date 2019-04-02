@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bus Stop</title>
+  <style>
+    #stopName {
+      font-size: 1.5em;
+      font-weight: 400;
+      padding: 0.25em;
+      background-color: aquamarine;
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="stopInfo" style="width:20em">
+  <div>
+    <label for="stopId">Stop ID: </label>
+    <input id="stopId" type="text">
+    <input id="submit" type="button" value="Check" onclick="getInfo()"></div>
+  <div id="result">
+    <div id="stopName"></div>
+    <ul id="buses"></ul>
+  </div>
+</div>
+<script>
+  function getInfo() {
+    let busStopId = $('#stopId');
+    let bussesURl = `https://judgetests.firebaseio.com/businfo/${busStopId.val()}.json`
+    $('#buses').empty();
+    $.ajax({
+        url:bussesURl,
+        success:loadSuccess,
+        error:displayError
+
+    });
+
+    function loadSuccess(busStop){
+        $('#stopName').text(busStop.name);
+        for(let bus in busStop.buses){
+            $('#buses').append($('<li>').text(`Bus ${bus} arrives in ${busStop.buses[bus]} minutes`))
+        }
+        
+    }
+    function displayError(){
+        $('#stopName').text('Error');
+    }
+  }
+//   function getInfo() {
+//     let bussesURl = "https://judgetests.firebaseio.com/businfo/"
+//     let busStopId = $('#stopId').val();
+//     $('#buses').empty();
+//     $.get(bussesURl + busStopId + '.json')
+//     .then(loadSuccess)
+//     .catch(displayError)
+
+//     function loadSuccess(busStop){
+//         $('#stopName').text(busStop.name);
+//         for(let bus in busStop.buses){
+//             $('#buses').append($('<li>').text(`Bus ${bus} arrives in ${busStop.buses[bus]} minutes`))
+//         }
+        
+//     }
+//     function displayError(){
+//         $('#stopName').text('Error');
+//     }
+//   }
+</script>
+</body>
+</html>

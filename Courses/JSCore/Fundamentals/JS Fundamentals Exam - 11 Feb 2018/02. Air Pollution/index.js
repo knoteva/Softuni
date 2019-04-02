@@ -1,0 +1,5 @@
+function solve(arr){
+
+
+}
+solve();
