@@ -1,0 +1,11 @@
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\obj\Debug\netcoreapp2.1\01. Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\obj\Debug\netcoreapp2.1\01. Data Type Finder.AssemblyInfoInputs.cache
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\obj\Debug\netcoreapp2.1\01. Data Type Finder.AssemblyInfo.cs
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\bin\Debug\netcoreapp2.1\01. Data Type Finder.deps.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\bin\Debug\netcoreapp2.1\01. Data Type Finder.runtimeconfig.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\bin\Debug\netcoreapp2.1\01. Data Type Finder.runtimeconfig.dev.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\bin\Debug\netcoreapp2.1\01. Data Type Finder.dll
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\bin\Debug\netcoreapp2.1\01. Data Type Finder.pdb
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\obj\Debug\netcoreapp2.1\01. Data Type Finder.dll
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\obj\Debug\netcoreapp2.1\01. Data Type Finder.pdb
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\01. Data Type Finder\obj\Debug\netcoreapp2.1\01. Data Type Finder.csprojAssemblyReference.cache

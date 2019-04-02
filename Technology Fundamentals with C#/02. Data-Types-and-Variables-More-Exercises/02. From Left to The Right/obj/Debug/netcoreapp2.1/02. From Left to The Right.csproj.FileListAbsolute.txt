@@ -1,0 +1,11 @@
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\bin\Debug\netcoreapp2.1\02. From Left to The Right.deps.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\bin\Debug\netcoreapp2.1\02. From Left to The Right.runtimeconfig.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\bin\Debug\netcoreapp2.1\02. From Left to The Right.runtimeconfig.dev.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\bin\Debug\netcoreapp2.1\02. From Left to The Right.dll
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\bin\Debug\netcoreapp2.1\02. From Left to The Right.pdb
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\obj\Debug\netcoreapp2.1\02. From Left to The Right.csprojAssemblyReference.cache
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\obj\Debug\netcoreapp2.1\02. From Left to The Right.csproj.CoreCompileInputs.cache
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\obj\Debug\netcoreapp2.1\02. From Left to The Right.AssemblyInfoInputs.cache
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\obj\Debug\netcoreapp2.1\02. From Left to The Right.AssemblyInfo.cs
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\obj\Debug\netcoreapp2.1\02. From Left to The Right.dll
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\02. From Left to The Right\obj\Debug\netcoreapp2.1\02. From Left to The Right.pdb

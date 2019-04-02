@@ -1,0 +1,10 @@
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\bin\Debug\netcoreapp2.1\05. Decrypting Messages.deps.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\bin\Debug\netcoreapp2.1\05. Decrypting Messages.runtimeconfig.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\bin\Debug\netcoreapp2.1\05. Decrypting Messages.runtimeconfig.dev.json
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\bin\Debug\netcoreapp2.1\05. Decrypting Messages.dll
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\bin\Debug\netcoreapp2.1\05. Decrypting Messages.pdb
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\obj\Debug\netcoreapp2.1\05. Decrypting Messages.csproj.CoreCompileInputs.cache
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\obj\Debug\netcoreapp2.1\05. Decrypting Messages.AssemblyInfoInputs.cache
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\obj\Debug\netcoreapp2.1\05. Decrypting Messages.AssemblyInfo.cs
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\obj\Debug\netcoreapp2.1\05. Decrypting Messages.dll
+C:\Users\knote\source\repos\02. Data-Types-and-Variables-More-Exercises\05. Decrypting Messages\obj\Debug\netcoreapp2.1\05. Decrypting Messages.pdb
