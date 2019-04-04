@@ -1,0 +1,33 @@
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\34. Basic CRUD - Exercise\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
