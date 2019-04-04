@@ -1,0 +1,11 @@
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\bin\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.deps.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\bin\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\bin\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\bin\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\bin\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\obj\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.csprojAssemblyReference.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\obj\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\obj\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\obj\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\obj\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\09. ExerciseArrays\09. ExerciseArrays\05. Longest Increasing Subsequence\obj\Debug\netcoreapp2.1\05. Longest Increasing Subsequence.pdb
