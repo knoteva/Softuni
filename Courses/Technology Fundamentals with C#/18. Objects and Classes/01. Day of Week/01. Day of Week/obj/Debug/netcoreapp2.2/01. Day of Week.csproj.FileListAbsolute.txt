@@ -1,0 +1,11 @@
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.deps.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\bin\Debug\netcoreapp2.2\01. Day of Week.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.csprojAssemblyReference.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\01. Day of Week\obj\Debug\netcoreapp2.2\01. Day of Week.pdb

@@ -1,0 +1,11 @@
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\bin\Debug\netcoreapp2.2\02. Randomize Words.deps.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\bin\Debug\netcoreapp2.2\02. Randomize Words.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\bin\Debug\netcoreapp2.2\02. Randomize Words.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\bin\Debug\netcoreapp2.2\02. Randomize Words.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\bin\Debug\netcoreapp2.2\02. Randomize Words.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\obj\Debug\netcoreapp2.2\02. Randomize Words.csprojAssemblyReference.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\obj\Debug\netcoreapp2.2\02. Randomize Words.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\obj\Debug\netcoreapp2.2\02. Randomize Words.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\obj\Debug\netcoreapp2.2\02. Randomize Words.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\obj\Debug\netcoreapp2.2\02. Randomize Words.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\02. Randomize Words\obj\Debug\netcoreapp2.2\02. Randomize Words.pdb
