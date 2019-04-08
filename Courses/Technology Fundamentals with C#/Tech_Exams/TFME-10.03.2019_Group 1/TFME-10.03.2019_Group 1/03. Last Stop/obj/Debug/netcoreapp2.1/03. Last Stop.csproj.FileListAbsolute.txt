@@ -1,0 +1,11 @@
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\bin\Debug\netcoreapp2.1\03. Last Stop.deps.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\bin\Debug\netcoreapp2.1\03. Last Stop.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\bin\Debug\netcoreapp2.1\03. Last Stop.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\bin\Debug\netcoreapp2.1\03. Last Stop.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\bin\Debug\netcoreapp2.1\03. Last Stop.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\obj\Debug\netcoreapp2.1\03. Last Stop.csprojAssemblyReference.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\obj\Debug\netcoreapp2.1\03. Last Stop.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\obj\Debug\netcoreapp2.1\03. Last Stop.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\obj\Debug\netcoreapp2.1\03. Last Stop.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\obj\Debug\netcoreapp2.1\03. Last Stop.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 1\TFME-10.03.2019_Group 1\03. Last Stop\obj\Debug\netcoreapp2.1\03. Last Stop.pdb

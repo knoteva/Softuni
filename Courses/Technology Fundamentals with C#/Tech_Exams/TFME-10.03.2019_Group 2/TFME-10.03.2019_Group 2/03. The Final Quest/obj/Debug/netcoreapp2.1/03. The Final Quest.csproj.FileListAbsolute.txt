@@ -1,0 +1,11 @@
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.deps.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\TFME-10.03.2019_Group 2\TFME-10.03.2019_Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.csprojAssemblyReference.cache
