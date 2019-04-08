@@ -1,0 +1,11 @@
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\bin\Debug\netcoreapp2.0\Library.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\bin\Debug\netcoreapp2.0\Library.pdb
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\obj\Debug\netcoreapp2.0\Library.csprojAssemblyReference.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\obj\Debug\netcoreapp2.0\Library.dll
+D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\Tech-Exams\Demo_Exam_06.04.2019\03. Library\Library\obj\Debug\netcoreapp2.0\Library.pdb
