@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\bin\Debug\netcoreapp2.2\04. Easter Shop.deps.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\bin\Debug\netcoreapp2.2\04. Easter Shop.runtimeconfig.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\bin\Debug\netcoreapp2.2\04. Easter Shop.runtimeconfig.dev.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\bin\Debug\netcoreapp2.2\04. Easter Shop.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\bin\Debug\netcoreapp2.2\04. Easter Shop.pdb
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\obj\Debug\netcoreapp2.2\04. Easter Shop.csprojAssemblyReference.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\obj\Debug\netcoreapp2.2\04. Easter Shop.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\obj\Debug\netcoreapp2.2\04. Easter Shop.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\obj\Debug\netcoreapp2.2\04. Easter Shop.AssemblyInfo.cs
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\obj\Debug\netcoreapp2.2\04. Easter Shop.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\04. Easter Shop\obj\Debug\netcoreapp2.2\04. Easter Shop.pdb

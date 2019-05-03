@@ -1,0 +1,10 @@
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\bin\Debug\netcoreapp2.2\06. Easter Decoration.deps.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\bin\Debug\netcoreapp2.2\06. Easter Decoration.runtimeconfig.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\bin\Debug\netcoreapp2.2\06. Easter Decoration.runtimeconfig.dev.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\bin\Debug\netcoreapp2.2\06. Easter Decoration.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\bin\Debug\netcoreapp2.2\06. Easter Decoration.pdb
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\obj\Debug\netcoreapp2.2\06. Easter Decoration.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\obj\Debug\netcoreapp2.2\06. Easter Decoration.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\obj\Debug\netcoreapp2.2\06. Easter Decoration.AssemblyInfo.cs
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\obj\Debug\netcoreapp2.2\06. Easter Decoration.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Decoration\obj\Debug\netcoreapp2.2\06. Easter Decoration.pdb

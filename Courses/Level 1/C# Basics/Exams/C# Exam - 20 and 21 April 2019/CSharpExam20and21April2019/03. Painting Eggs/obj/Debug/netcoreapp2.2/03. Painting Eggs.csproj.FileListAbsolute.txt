@@ -1,0 +1,10 @@
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\bin\Debug\netcoreapp2.2\03. Painting Eggs.deps.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\bin\Debug\netcoreapp2.2\03. Painting Eggs.runtimeconfig.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\bin\Debug\netcoreapp2.2\03. Painting Eggs.runtimeconfig.dev.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\bin\Debug\netcoreapp2.2\03. Painting Eggs.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\bin\Debug\netcoreapp2.2\03. Painting Eggs.pdb
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\obj\Debug\netcoreapp2.2\03. Painting Eggs.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\obj\Debug\netcoreapp2.2\03. Painting Eggs.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\obj\Debug\netcoreapp2.2\03. Painting Eggs.AssemblyInfo.cs
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\obj\Debug\netcoreapp2.2\03. Painting Eggs.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Painting Eggs\obj\Debug\netcoreapp2.2\03. Painting Eggs.pdb

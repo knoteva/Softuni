@@ -1,0 +1,10 @@
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\bin\Debug\netcoreapp2.2\03. Easter Trip.deps.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\bin\Debug\netcoreapp2.2\03. Easter Trip.runtimeconfig.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\bin\Debug\netcoreapp2.2\03. Easter Trip.runtimeconfig.dev.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\bin\Debug\netcoreapp2.2\03. Easter Trip.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\bin\Debug\netcoreapp2.2\03. Easter Trip.pdb
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\obj\Debug\netcoreapp2.2\03. Easter Trip.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\obj\Debug\netcoreapp2.2\03. Easter Trip.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\obj\Debug\netcoreapp2.2\03. Easter Trip.AssemblyInfo.cs
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\obj\Debug\netcoreapp2.2\03. Easter Trip.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\03. Easter Trip\obj\Debug\netcoreapp2.2\03. Easter Trip.pdb

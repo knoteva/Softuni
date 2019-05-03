@@ -1,0 +1,10 @@
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\bin\Debug\netcoreapp2.2\01. Easter Bakery.deps.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\bin\Debug\netcoreapp2.2\01. Easter Bakery.runtimeconfig.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\bin\Debug\netcoreapp2.2\01. Easter Bakery.runtimeconfig.dev.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\bin\Debug\netcoreapp2.2\01. Easter Bakery.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\bin\Debug\netcoreapp2.2\01. Easter Bakery.pdb
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\obj\Debug\netcoreapp2.2\01. Easter Bakery.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\obj\Debug\netcoreapp2.2\01. Easter Bakery.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\obj\Debug\netcoreapp2.2\01. Easter Bakery.AssemblyInfo.cs
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\obj\Debug\netcoreapp2.2\01. Easter Bakery.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Bakery\obj\Debug\netcoreapp2.2\01. Easter Bakery.pdb

@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\bin\Debug\netcoreapp2.2\01. Easter Lunch.deps.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\bin\Debug\netcoreapp2.2\01. Easter Lunch.runtimeconfig.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\bin\Debug\netcoreapp2.2\01. Easter Lunch.runtimeconfig.dev.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\bin\Debug\netcoreapp2.2\01. Easter Lunch.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\bin\Debug\netcoreapp2.2\01. Easter Lunch.pdb
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\obj\Debug\netcoreapp2.2\01. Easter Lunch.csprojAssemblyReference.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\obj\Debug\netcoreapp2.2\01. Easter Lunch.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\obj\Debug\netcoreapp2.2\01. Easter Lunch.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\obj\Debug\netcoreapp2.2\01. Easter Lunch.AssemblyInfo.cs
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\obj\Debug\netcoreapp2.2\01. Easter Lunch.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\01. Easter Lunch\obj\Debug\netcoreapp2.2\01. Easter Lunch.pdb

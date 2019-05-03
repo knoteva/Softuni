@@ -1,0 +1,10 @@
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\bin\Debug\netcoreapp2.2\06. Easter Competition.deps.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\bin\Debug\netcoreapp2.2\06. Easter Competition.runtimeconfig.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\bin\Debug\netcoreapp2.2\06. Easter Competition.runtimeconfig.dev.json
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\bin\Debug\netcoreapp2.2\06. Easter Competition.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\bin\Debug\netcoreapp2.2\06. Easter Competition.pdb
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\obj\Debug\netcoreapp2.2\06. Easter Competition.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\obj\Debug\netcoreapp2.2\06. Easter Competition.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\obj\Debug\netcoreapp2.2\06. Easter Competition.AssemblyInfo.cs
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\obj\Debug\netcoreapp2.2\06. Easter Competition.dll
+D:\Programing\Softuni\Programming Basics\C# Exam - 20 and 21 April 2019\CSharpExam20and21April2019\06. Easter Competition\obj\Debug\netcoreapp2.2\06. Easter Competition.pdb
