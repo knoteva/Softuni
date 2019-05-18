@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. Print Month/01. Print Month.iml" filepath="$PROJECT_DIR$/01. Print Month/01. Print Month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. Reverse an Array of Integers/02. Reverse an Array of Integers.iml" filepath="$PROJECT_DIR$/02. Reverse an Array of Integers/02. Reverse an Array of Integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. PHP Advanced Syntax.iml" filepath="$PROJECT_DIR$/03. PHP Advanced Syntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. Triple Sum/03. Triple Sum.iml" filepath="$PROJECT_DIR$/03. Triple Sum/03. Triple Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. Rounding Numbers Away from Zero/04. Rounding Numbers Away from Zero.iml" filepath="$PROJECT_DIR$/04. Rounding Numbers Away from Zero/04. Rounding Numbers Away from Zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. Sum Arrays/05. Sum Arrays.iml" filepath="$PROJECT_DIR$/05. Sum Arrays/05. Sum Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. Fill the Matrix/06. Fill the Matrix.iml" filepath="$PROJECT_DIR$/06. Fill the Matrix/06. Fill the Matrix.iml" />
+    </modules>
+  </component>
+</project>
