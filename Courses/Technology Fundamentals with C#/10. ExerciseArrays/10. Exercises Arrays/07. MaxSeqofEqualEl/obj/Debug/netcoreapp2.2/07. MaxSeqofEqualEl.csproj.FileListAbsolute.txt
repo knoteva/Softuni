@@ -1,0 +1,10 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\bin\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\bin\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\bin\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\bin\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\bin\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\obj\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\obj\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\obj\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\obj\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\07. MaxSeqofEqualEl\obj\Debug\netcoreapp2.2\07. MaxSeqofEqualEl.pdb

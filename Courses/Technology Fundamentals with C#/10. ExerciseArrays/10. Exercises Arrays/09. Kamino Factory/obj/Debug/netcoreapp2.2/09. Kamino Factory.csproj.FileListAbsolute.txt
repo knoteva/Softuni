@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.csprojAssemblyReference.cache

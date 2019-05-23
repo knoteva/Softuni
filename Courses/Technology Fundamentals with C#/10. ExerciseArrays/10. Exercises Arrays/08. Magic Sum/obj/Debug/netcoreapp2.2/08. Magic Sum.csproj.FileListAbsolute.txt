@@ -1,0 +1,10 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\bin\Debug\netcoreapp2.2\08. Magic Sum.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\bin\Debug\netcoreapp2.2\08. Magic Sum.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\bin\Debug\netcoreapp2.2\08. Magic Sum.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\bin\Debug\netcoreapp2.2\08. Magic Sum.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\bin\Debug\netcoreapp2.2\08. Magic Sum.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\obj\Debug\netcoreapp2.2\08. Magic Sum.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\obj\Debug\netcoreapp2.2\08. Magic Sum.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\obj\Debug\netcoreapp2.2\08. Magic Sum.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\obj\Debug\netcoreapp2.2\08. Magic Sum.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\10. ExerciseArrays\10. Exercises Arrays\10. Exercises Arrays\08. Magic Sum\obj\Debug\netcoreapp2.2\08. Magic Sum.pdb
