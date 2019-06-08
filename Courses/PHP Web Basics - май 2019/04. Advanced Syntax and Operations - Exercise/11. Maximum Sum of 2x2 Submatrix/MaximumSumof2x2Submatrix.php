@@ -1,36 +1,26 @@
 <?php
-$input = explode(', ', readline());
-$rows = intval($input[0]);
-$columns = intval($input[1]);
+$input = explode(", ", readline());
+$rows = $input[0];
+$cols = $input[1];
+$biggestSum = 0;
+$biggestIndex = [0, 0];
 $matrix = [];
-for ($i = 0; $i < $rows; $i++) {
-    $matrix[$i] = array_map('intval', explode(', ', readline()));
+for($row = 0; $row < $rows; $row++)
+{
+    $matrix[$row] = explode(", ", readline());
 }
-$best_sum = 0;
-$sum = 0;
-$x_counter = 0;
-$start_x = 0;
-$stop_x = 0;
-$start_y = 0;
-$stop_y = 0;
-for ($j = 0; $j < $rows - 1; $j++) {
-    for ($i = 0; $i < $columns - 1; $i++) {
-        for ($x = $x_counter; $x < min($x_counter + 2, $rows); $x++) {
-            for ($y = $i; $y < min($i + 2, $columns); $y++) {
-                $sum += $matrix[$x][$y];
-            }
+for($row = 0; $row < $rows - 1; $row++)
+{
+    for($col = 0; $col < $cols - 1; $col++)
+    {
+        if(($matrix[$row][$col] + $matrix[$row][$col + 1] + $matrix[$row + 1][$col] + $matrix[$row + 1][$col + 1]) > $biggestSum)
+        {
+            $biggestSum = $matrix[$row][$col] + $matrix[$row][$col + 1] + $matrix[$row + 1][$col] + $matrix[$row + 1][$col + 1];
+            $biggestIndex[0] = $row;
+            $biggestIndex[1] = $col;
         }
-        if ($sum > $best_sum) {
-            $best_sum = $sum;
-            $start_x = $matrix[$x - 2][$y - 2];
-            $stop_x = $matrix[$x - 2][$y - 1];
-            $start_y = $matrix[$x - 1][$y - 2];
-            $stop_y = $matrix[$x - 1][$y - 1];
-        }
-        $sum = 0;
     }
-    $x_counter++;
 }
-echo $start_x." ".$stop_x.PHP_EOL;
-echo $start_y." ".$stop_y.PHP_EOL;
-echo $best_sum;
+echo $matrix[$biggestIndex[0]][$biggestIndex[1]] . " " . $matrix[$biggestIndex[0]][$biggestIndex[1] + 1] . PHP_EOL;
+echo $matrix[$biggestIndex[0] + 1][$biggestIndex[1]] . " " . $matrix[$biggestIndex[0] + 1][$biggestIndex[1] + 1] . PHP_EOL;
+echo $biggestSum;
