@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\02. Randomize Words\\02. Randomize Words.csproj",
+      "projectUniqueName": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\02. Randomize Words\\02. Randomize Words.csproj",
       "projectName": "02. Randomize Words",
-      "projectPath": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\02. Randomize Words\\02. Randomize Words.csproj",
+      "projectPath": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\02. Randomize Words\\02. Randomize Words.csproj",
       "packagesPath": "C:\\Users\\knote\\.nuget\\packages\\",
-      "outputPath": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\02. Randomize Words\\obj\\",
+      "outputPath": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\02. Randomize Words\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

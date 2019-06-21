@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\bin\Debug\netcoreapp2.2\03. Big Factorial.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\bin\Debug\netcoreapp2.2\03. Big Factorial.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\bin\Debug\netcoreapp2.2\03. Big Factorial.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\bin\Debug\netcoreapp2.2\03. Big Factorial.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\bin\Debug\netcoreapp2.2\03. Big Factorial.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\obj\Debug\netcoreapp2.2\03. Big Factorial.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\obj\Debug\netcoreapp2.2\03. Big Factorial.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\obj\Debug\netcoreapp2.2\03. Big Factorial.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\obj\Debug\netcoreapp2.2\03. Big Factorial.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\obj\Debug\netcoreapp2.2\03. Big Factorial.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\03. Big Factorial\obj\Debug\netcoreapp2.2\03. Big Factorial.pdb

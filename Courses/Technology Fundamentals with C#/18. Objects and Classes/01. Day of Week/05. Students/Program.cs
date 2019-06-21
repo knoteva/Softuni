@@ -13,11 +13,13 @@ namespace _05._Students
 
             while ((command = Console.ReadLine()) != "end")
             {
-                Student student = new Student();
-                student.FirstName = command.Split(" ")[0];
-                student.LastName = command.Split(" ")[1];
-                student.Age = int.Parse(command.Split(" ")[2]);
-                student.City = command.Split(" ")[3];
+                Student student = new Student
+                {
+                    FirstName = command.Split(" ")[0],
+                    LastName = command.Split(" ")[1],
+                    Age = int.Parse(command.Split(" ")[2]),
+                    City = command.Split(" ")[3]
+                };
                 students.Add(student);
             }
             string city = Console.ReadLine();

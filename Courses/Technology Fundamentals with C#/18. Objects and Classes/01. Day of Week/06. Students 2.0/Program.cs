@@ -1,49 +1,75 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace _05._Students
+namespace Students_2._0
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            string[] command = Console.ReadLine().Split(" ");
-            var students = new List<Student>();
+            List<Student> students = new List<Student>();
 
-            while (command[0] != "end")
+            while (true)
             {
-                Student student = new Student();
-                student.FirstName = command[0];
-                string firstname = command[0];
-                student.LastName = command[1];
-                student.Age = int.Parse(command[2]);
-                student.City = command[3];
-                if (!students.Contains(Student.FirstName))
+                string input = Console.ReadLine();
+
+                if (input == "end")
                 {
-
+                    break;
                 }
-                students.Add(student);
-            }
-            string city = Console.ReadLine();
 
-            students = students
-                    .Where(s => s.City == city)
-                    .ToList();
-            foreach (var s in students)
-            {
-                Console.WriteLine($"{s.FirstName} {s.LastName} is {s.Age} years old.");
+                string[] information = input.Split();
+
+                students = AddStudent(students, information);
             }
 
+            string town = Console.ReadLine();
+
+            students.Where(x => x.Hometown == town)
+                .ToList()
+                .ForEach(x => Console.WriteLine($"{x.FirstName} {x.LastName} is {x.Age} years old."));
         }
 
-        class Student
+        public static List<Student> AddStudent(List<Student> students, string[] information)
         {
-            public string FirstName { get; set; }
-            public string LastName { get; set; }
-            public int Age { get; set; }
-            public string City { get; set; }
+            Student newStudent = ReadStudent(information);
 
+            if (students.Any(x => x.FirstName == newStudent.FirstName && x.LastName == newStudent.LastName))
+            {
+                int index = students.FindIndex(x => x.FirstName == newStudent.FirstName && x.LastName == newStudent.LastName);
+
+                students[index].Age = newStudent.Age;
+                students[index].Hometown = newStudent.Hometown;
+            }
+            else
+            {
+                students.Add(newStudent);
+            }
+
+            return students;
         }
+
+        public static Student ReadStudent(string[] information)
+        {
+            return new Student
+            {
+                FirstName = information[0],
+                LastName = information[1],
+                Age = int.Parse(information[2]),
+                Hometown = information[3]
+            };
+        }
+    }
+
+    public class Student
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public int Age { get; set; }
+        public string Hometown { get; set; }
     }
 }

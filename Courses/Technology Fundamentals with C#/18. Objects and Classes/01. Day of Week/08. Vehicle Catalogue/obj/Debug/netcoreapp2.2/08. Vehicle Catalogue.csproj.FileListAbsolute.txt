@@ -1,0 +1,10 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\bin\Debug\netcoreapp2.2\08. Vehicle Catalogue.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\bin\Debug\netcoreapp2.2\08. Vehicle Catalogue.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\bin\Debug\netcoreapp2.2\08. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\bin\Debug\netcoreapp2.2\08. Vehicle Catalogue.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\bin\Debug\netcoreapp2.2\08. Vehicle Catalogue.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\obj\Debug\netcoreapp2.2\08. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\obj\Debug\netcoreapp2.2\08. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\obj\Debug\netcoreapp2.2\08. Vehicle Catalogue.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\obj\Debug\netcoreapp2.2\08. Vehicle Catalogue.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\08. Vehicle Catalogue\obj\Debug\netcoreapp2.2\08. Vehicle Catalogue.pdb

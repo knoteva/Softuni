@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\05. Students\\05. Students.csproj",
+      "projectUniqueName": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\05. Students\\05. Students.csproj",
       "projectName": "05. Students",
-      "projectPath": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\05. Students\\05. Students.csproj",
+      "projectPath": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\05. Students\\05. Students.csproj",
       "packagesPath": "C:\\Users\\knote\\.nuget\\packages\\",
-      "outputPath": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\05. Students\\obj\\",
+      "outputPath": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\05. Students\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,3 +8,14 @@ D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Clas
 D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.AssemblyInfo.cs
 D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.dll
 D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\bin\Debug\netcoreapp2.2\05. Students.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\bin\Debug\netcoreapp2.2\05. Students.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\bin\Debug\netcoreapp2.2\05. Students.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\bin\Debug\netcoreapp2.2\05. Students.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\bin\Debug\netcoreapp2.2\05. Students.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\05. Students\obj\Debug\netcoreapp2.2\05. Students.pdb

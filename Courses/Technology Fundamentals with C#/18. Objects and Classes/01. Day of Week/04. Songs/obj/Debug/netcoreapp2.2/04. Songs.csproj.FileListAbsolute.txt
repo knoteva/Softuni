@@ -9,3 +9,14 @@ D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Clas
 D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.AssemblyInfo.cs
 D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.dll
 D:\13.12.2018\SoftUni\Judge\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\bin\Debug\netcoreapp2.2\04. Songs.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\bin\Debug\netcoreapp2.2\04. Songs.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\bin\Debug\netcoreapp2.2\04. Songs.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\bin\Debug\netcoreapp2.2\04. Songs.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\bin\Debug\netcoreapp2.2\04. Songs.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\04. Songs\obj\Debug\netcoreapp2.2\04. Songs.pdb

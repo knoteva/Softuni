@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\03. Big Factorial\\03. Big Factorial.csproj",
+      "projectUniqueName": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\03. Big Factorial\\03. Big Factorial.csproj",
       "projectName": "03. Big Factorial",
-      "projectPath": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\03. Big Factorial\\03. Big Factorial.csproj",
+      "projectPath": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\03. Big Factorial\\03. Big Factorial.csproj",
       "packagesPath": "C:\\Users\\knote\\.nuget\\packages\\",
-      "outputPath": "D:\\13.12.2018\\SoftUni\\Judge\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\03. Big Factorial\\obj\\",
+      "outputPath": "D:\\Programing\\Softuni\\Technology Fundamentals with C#\\18. Objects and Classes\\01. Day of Week\\03. Big Factorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

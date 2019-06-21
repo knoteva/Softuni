@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\18. Objects and Classes\01. Day of Week\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.pdb
