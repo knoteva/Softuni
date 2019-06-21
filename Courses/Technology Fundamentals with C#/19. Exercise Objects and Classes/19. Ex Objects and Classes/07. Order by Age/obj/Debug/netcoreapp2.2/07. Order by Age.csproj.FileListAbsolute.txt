@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.2\07. Order by Age.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.2\07. Order by Age.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.2\07. Order by Age.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.2\07. Order by Age.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\bin\Debug\netcoreapp2.2\07. Order by Age.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.2\07. Order by Age.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.2\07. Order by Age.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.2\07. Order by Age.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.2\07. Order by Age.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.2\07. Order by Age.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\07. Order by Age\obj\Debug\netcoreapp2.2\07. Order by Age.pdb

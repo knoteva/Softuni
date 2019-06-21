@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\bin\Debug\netcoreapp2.2\04. Students.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\bin\Debug\netcoreapp2.2\04. Students.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\bin\Debug\netcoreapp2.2\04. Students.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\bin\Debug\netcoreapp2.2\04. Students.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\bin\Debug\netcoreapp2.2\04. Students.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\obj\Debug\netcoreapp2.2\04. Students.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\obj\Debug\netcoreapp2.2\04. Students.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\obj\Debug\netcoreapp2.2\04. Students.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\obj\Debug\netcoreapp2.2\04. Students.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\obj\Debug\netcoreapp2.2\04. Students.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\04. Students\obj\Debug\netcoreapp2.2\04. Students.pdb

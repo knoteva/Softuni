@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\bin\Debug\netcoreapp2.2\05. Team Projects.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\bin\Debug\netcoreapp2.2\05. Team Projects.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\bin\Debug\netcoreapp2.2\05. Team Projects.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\bin\Debug\netcoreapp2.2\05. Team Projects.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\bin\Debug\netcoreapp2.2\05. Team Projects.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\obj\Debug\netcoreapp2.2\05. Team Projects.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\obj\Debug\netcoreapp2.2\05. Team Projects.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\obj\Debug\netcoreapp2.2\05. Team Projects.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\obj\Debug\netcoreapp2.2\05. Team Projects.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\obj\Debug\netcoreapp2.2\05. Team Projects.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\05. Team Projects\obj\Debug\netcoreapp2.2\05. Team Projects.csprojAssemblyReference.cache

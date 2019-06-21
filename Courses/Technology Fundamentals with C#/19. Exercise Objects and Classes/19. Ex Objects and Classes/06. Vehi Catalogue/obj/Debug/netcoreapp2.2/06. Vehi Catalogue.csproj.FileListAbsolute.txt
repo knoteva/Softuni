@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\bin\Debug\netcoreapp2.2\06. Vehi Catalogue.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\bin\Debug\netcoreapp2.2\06. Vehi Catalogue.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\bin\Debug\netcoreapp2.2\06. Vehi Catalogue.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\bin\Debug\netcoreapp2.2\06. Vehi Catalogue.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\bin\Debug\netcoreapp2.2\06. Vehi Catalogue.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\obj\Debug\netcoreapp2.2\06. Vehi Catalogue.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\obj\Debug\netcoreapp2.2\06. Vehi Catalogue.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\obj\Debug\netcoreapp2.2\06. Vehi Catalogue.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\obj\Debug\netcoreapp2.2\06. Vehi Catalogue.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\obj\Debug\netcoreapp2.2\06. Vehi Catalogue.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\06. Vehi Catalogue\obj\Debug\netcoreapp2.2\06. Vehi Catalogue.pdb

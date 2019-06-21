@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\bin\Debug\netcoreapp2.2\01. Advertisement Message.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\bin\Debug\netcoreapp2.2\01. Advertisement Message.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\bin\Debug\netcoreapp2.2\01. Advertisement Message.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\bin\Debug\netcoreapp2.2\01. Advertisement Message.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\bin\Debug\netcoreapp2.2\01. Advertisement Message.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\obj\Debug\netcoreapp2.2\01. Advertisement Message.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\obj\Debug\netcoreapp2.2\01. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\obj\Debug\netcoreapp2.2\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\obj\Debug\netcoreapp2.2\01. Advertisement Message.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\obj\Debug\netcoreapp2.2\01. Advertisement Message.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\19. Exercise Objects and Classes\19. Ex Objects and Classes\19. Ex Objects and Classes\obj\Debug\netcoreapp2.2\01. Advertisement Message.pdb
