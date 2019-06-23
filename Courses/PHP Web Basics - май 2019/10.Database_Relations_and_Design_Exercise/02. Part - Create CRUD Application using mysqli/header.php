@@ -1,0 +1,1 @@
+<h2><a href = "index.php">Posts</a></h2><h2><a href = "createPost.php">Create a post</a></h2>
