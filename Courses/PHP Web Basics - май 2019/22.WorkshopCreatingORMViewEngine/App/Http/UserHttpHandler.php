@@ -3,7 +3,6 @@
 namespace App\Http;
 
 use App\Data\UserDTO;
-use App\Http\UserHttpHandlerAbstract;
 use App\Service\Users\UserServiceInterface;
 
 class UserHttpHandler extends UserHttpHandlerAbstract

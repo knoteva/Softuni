@@ -2,9 +2,9 @@
 
 namespace Database;
 
+
 class PDODatabase implements DatabaseInterface
 {
-
     /**
      * @var \PDO
      */
@@ -19,6 +19,7 @@ class PDODatabase implements DatabaseInterface
     {
         $stmt = $this->pdo->prepare($query);
         return new PDOPreparedStatement($stmt);
+
     }
 
     public function getErrorInfo(): array

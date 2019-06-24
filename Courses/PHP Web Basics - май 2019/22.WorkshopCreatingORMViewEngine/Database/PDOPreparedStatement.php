@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Mihail
- * Date: 10/26/2018
- * Time: 10:46
- */
 
 namespace Database;
 

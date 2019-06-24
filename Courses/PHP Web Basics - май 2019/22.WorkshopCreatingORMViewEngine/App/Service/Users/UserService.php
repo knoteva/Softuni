@@ -20,10 +20,6 @@ class UserService implements UserServiceInterface
      */
     private $encryptionService;
 
-    /**
-     * UserService constructor.
-     * @param UserRepositoryInterface $userRepository
-     */
     public function __construct(UserRepositoryInterface $userRepository, EncryptionServiceInterface $encryptionService)
     {
         $this->userRepository = $userRepository;

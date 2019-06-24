@@ -33,7 +33,7 @@ class UserRepository implements UserRepositoryInterface
             $userDTO->getPassword(),
             $userDTO->getFirstName(),
             $userDTO->getLastName(),
-            $userDTO->getPassword()
+            $userDTO->getPassword(),
         ]);
         return true;
     }
@@ -65,9 +65,7 @@ class UserRepository implements UserRepositoryInterface
     public function delete(int $id): bool
     {
         $this->db->query(
-            "
-            DELETE FROM users WHERE Id = ?
-            "
+            "DELETE FROM users WHERE Id = ?"
         ) ->execute([$id]);
         return true;
     }

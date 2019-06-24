@@ -9,7 +9,7 @@
     </label>
     <br><br>
     <label>
-        Confirm Password:  <input type="password" name="confirmPassword"/>
+        Confirm Password:  <input type="password" name="confirm_password"/>
     </label>
     <br><br>
     <label>
@@ -20,6 +20,8 @@
         Last Name: <input type="text" name="last_name"/>
     </label>
     <br><br>
-    Born on: <input type="text" name="born_on"/>
-<input type="submit" name="register" value="Register"/>
+    <label>
+        Born on: <input type="text" name="born_on"/>
+    </label>
+    <input type="submit" name="register" value="Register"/>
 </form>
