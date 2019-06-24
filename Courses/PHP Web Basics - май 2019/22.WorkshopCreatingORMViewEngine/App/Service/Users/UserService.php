@@ -26,7 +26,11 @@ class UserService implements UserServiceInterface
         $this->encryptionService = $encryptionService;
     }
 
-
+    /**
+     * @param UserDTO $userDTO
+     * @param string $confirmPassword
+     * @return bool
+     */
     public function register(UserDTO $userDTO, string $confirmPassword): bool
     {
         if ($userDTO->getPassword() !== $confirmPassword) {
@@ -44,17 +48,31 @@ class UserService implements UserServiceInterface
 
     public function login(string $username, string $password): ?UserDTO
     {
-        // TODO: Implement login() method.
+        $userFromDB = $this->userRepository->findOneByUsername($username);
+        if (null === $userFromDB) {
+            return null;
+        }
+        if (false === $this->encryptionService->verify($password, $userFromDB->getPassword())) {
+            return null;
+        }
+        return $userFromDB;
     }
 
     public function currentUser(): ?UserDTO
     {
-        // TODO: Implement currentUser() method.
+        if (!$_SESSION['id']) {
+            return null;
+        }
+        return $this->userRepository->findOneById(intval($_SESSION['id']));
+
     }
 
     public function isLogged(): bool
     {
-        // TODO: Implement isLogged() method.
+        if (!$this->currentUser()) {
+            return false;
+        }
+        return true;
     }
 
     public function edit(UserDTO $userDTO): bool
@@ -67,7 +85,7 @@ class UserService implements UserServiceInterface
      */
     public function getAll(): \Generator
     {
-        // TODO: Implement getAll() method.
+        return $this->userRepository->findAll();
     }
 
     /**

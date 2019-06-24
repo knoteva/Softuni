@@ -25,3 +25,4 @@
     </label>
     <input type="submit" name="register" value="Register"/>
 </form>
+

@@ -8,5 +8,5 @@
         Password: <input type="password" name="password"/>
     </label>
     <br><br>
-
+    <input type="submit" name="login" value="Login"/>
 </form>
