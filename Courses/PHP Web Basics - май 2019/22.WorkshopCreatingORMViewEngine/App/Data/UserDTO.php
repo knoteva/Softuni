@@ -4,7 +4,6 @@ namespace App\Data;
 
 class UserDTO
 {
-
     private $id;
     private $username;
     private $password;
@@ -12,16 +11,14 @@ class UserDTO
     private $lastName;
     private $bornOn;
 
-
-    public static function create($username, $password, $firstName, $lastName, $bornOn, $id = null) : UserDTO
-    {
-         return(new UserDTO())
-             ->setUsername($username)
-             ->setPassword($password)
-             ->setUsername($firstName)
-             ->setLastName($lastName)
-             ->setBornOn($bornOn)
-             ->setId($id);
+    public static function create($username, $password, $firstName, $lastName, $bornOn, $id = null) {
+        return(new UserDTO())
+            ->setUsername($username)
+            ->setPassword($password)
+            ->setFirstName($firstName)
+            ->setLastName($lastName)
+            ->setBornOn($bornOn)
+            ->setId($id);
     }
 
     public function getId()
@@ -29,7 +26,7 @@ class UserDTO
         return $this->id;
     }
 
-    public function setId(int $id): UserDTO
+    public function setId($id): UserDTO
     {
         $this->id = $id;
         return $this;
@@ -40,18 +37,18 @@ class UserDTO
         return $this->username;
     }
 
-    public function setUsername(string $username): UserDTO
+    public function setUsername($username): UserDTO
     {
         $this->username = $username;
         return $this;
     }
 
-    public function getPassword(): string
+    public function getPassword()
     {
         return $this->password;
     }
 
-    public function setPassword(string $password): UserDTO
+    public function setPassword($password): UserDTO
     {
         $this->password = $password;
         return $this;
@@ -62,7 +59,7 @@ class UserDTO
         return $this->firstName;
     }
 
-    public function setFirstName(string $firstName): UserDTO
+    public function setFirstName($firstName): UserDTO
     {
         $this->firstName = $firstName;
         return $this;
@@ -73,7 +70,7 @@ class UserDTO
         return $this->lastName;
     }
 
-    public function setLastName(string $lastName): UserDTO
+    public function setLastName($lastName): UserDTO
     {
         $this->lastName = $lastName;
         return $this;
@@ -84,7 +81,7 @@ class UserDTO
         return $this->bornOn;
     }
 
-    public function setBornOn(string $bornOn): UserDTO
+    public function setBornOn($bornOn): UserDTO
     {
         $this->bornOn = $bornOn;
         return $this;

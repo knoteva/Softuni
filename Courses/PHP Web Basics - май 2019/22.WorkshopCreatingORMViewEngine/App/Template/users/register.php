@@ -21,7 +21,7 @@
     </label>
     <br><br>
     <label>
-        Born on: <input type="text" name="born_on"/>
+        Born on: <input type="date" name="born_on"/>
     </label>
     <input type="submit" name="register" value="Register"/>
 </form>

@@ -1,4 +1,4 @@
-<h2>Register Form</h2>
+<h2>Login Form</h2>
 <form method="post">
     <label>
         Username: <input name="username" type="text"/>
