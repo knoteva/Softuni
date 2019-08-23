@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\bin\Debug\netcoreapp2.2\01. Christmas Spirit.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\bin\Debug\netcoreapp2.2\01. Christmas Spirit.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\bin\Debug\netcoreapp2.2\01. Christmas Spirit.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\bin\Debug\netcoreapp2.2\01. Christmas Spirit.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\bin\Debug\netcoreapp2.2\01. Christmas Spirit.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\obj\Debug\netcoreapp2.2\01. Christmas Spirit.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\obj\Debug\netcoreapp2.2\01. Christmas Spirit.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\obj\Debug\netcoreapp2.2\01. Christmas Spirit.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\obj\Debug\netcoreapp2.2\01. Christmas Spirit.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\obj\Debug\netcoreapp2.2\01. Christmas Spirit.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\01. Christmas Spirit\obj\Debug\netcoreapp2.2\01. Christmas Spirit.pdb

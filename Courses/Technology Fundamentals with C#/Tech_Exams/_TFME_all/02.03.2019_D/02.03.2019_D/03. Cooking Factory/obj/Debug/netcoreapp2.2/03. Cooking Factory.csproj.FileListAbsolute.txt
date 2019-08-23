@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\bin\Debug\netcoreapp2.2\03. Cooking Factory.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\bin\Debug\netcoreapp2.2\03. Cooking Factory.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\bin\Debug\netcoreapp2.2\03. Cooking Factory.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\bin\Debug\netcoreapp2.2\03. Cooking Factory.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\bin\Debug\netcoreapp2.2\03. Cooking Factory.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\obj\Debug\netcoreapp2.2\03. Cooking Factory.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\obj\Debug\netcoreapp2.2\03. Cooking Factory.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\obj\Debug\netcoreapp2.2\03. Cooking Factory.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\obj\Debug\netcoreapp2.2\03. Cooking Factory.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\obj\Debug\netcoreapp2.2\03. Cooking Factory.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\03. Cooking Factory\obj\Debug\netcoreapp2.2\03. Cooking Factory.pdb

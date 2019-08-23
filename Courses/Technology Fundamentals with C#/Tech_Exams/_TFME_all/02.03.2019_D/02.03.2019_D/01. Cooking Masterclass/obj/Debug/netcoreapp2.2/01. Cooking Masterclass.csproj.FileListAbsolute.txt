@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\bin\Debug\netcoreapp2.2\01. Cooking Masterclass.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\bin\Debug\netcoreapp2.2\01. Cooking Masterclass.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\bin\Debug\netcoreapp2.2\01. Cooking Masterclass.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\bin\Debug\netcoreapp2.2\01. Cooking Masterclass.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\bin\Debug\netcoreapp2.2\01. Cooking Masterclass.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\obj\Debug\netcoreapp2.2\01. Cooking Masterclass.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\obj\Debug\netcoreapp2.2\01. Cooking Masterclass.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\obj\Debug\netcoreapp2.2\01. Cooking Masterclass.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\obj\Debug\netcoreapp2.2\01. Cooking Masterclass.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\obj\Debug\netcoreapp2.2\01. Cooking Masterclass.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\01. Cooking Masterclass\obj\Debug\netcoreapp2.2\01. Cooking Masterclass.pdb

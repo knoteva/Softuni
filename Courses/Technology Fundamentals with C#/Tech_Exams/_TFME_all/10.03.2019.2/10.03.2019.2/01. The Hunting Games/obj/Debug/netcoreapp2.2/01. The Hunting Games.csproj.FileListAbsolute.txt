@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\bin\Debug\netcoreapp2.2\01. The Hunting Games.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\bin\Debug\netcoreapp2.2\01. The Hunting Games.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\bin\Debug\netcoreapp2.2\01. The Hunting Games.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\bin\Debug\netcoreapp2.2\01. The Hunting Games.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\bin\Debug\netcoreapp2.2\01. The Hunting Games.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\obj\Debug\netcoreapp2.2\01. The Hunting Games.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\obj\Debug\netcoreapp2.2\01. The Hunting Games.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\obj\Debug\netcoreapp2.2\01. The Hunting Games.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\obj\Debug\netcoreapp2.2\01. The Hunting Games.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\obj\Debug\netcoreapp2.2\01. The Hunting Games.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\01. The Hunting Games\obj\Debug\netcoreapp2.2\01. The Hunting Games.pdb

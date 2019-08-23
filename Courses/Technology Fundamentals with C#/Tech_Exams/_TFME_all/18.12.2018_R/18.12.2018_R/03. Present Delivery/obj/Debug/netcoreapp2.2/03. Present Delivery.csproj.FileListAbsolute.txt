@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\bin\Debug\netcoreapp2.2\03. Present Delivery.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\bin\Debug\netcoreapp2.2\03. Present Delivery.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\bin\Debug\netcoreapp2.2\03. Present Delivery.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\bin\Debug\netcoreapp2.2\03. Present Delivery.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\bin\Debug\netcoreapp2.2\03. Present Delivery.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\obj\Debug\netcoreapp2.2\03. Present Delivery.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\obj\Debug\netcoreapp2.2\03. Present Delivery.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\obj\Debug\netcoreapp2.2\03. Present Delivery.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\obj\Debug\netcoreapp2.2\03. Present Delivery.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\obj\Debug\netcoreapp2.2\03. Present Delivery.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\18.12.2018_R\18.12.2018_R\03. Present Delivery\obj\Debug\netcoreapp2.2\03. Present Delivery.pdb

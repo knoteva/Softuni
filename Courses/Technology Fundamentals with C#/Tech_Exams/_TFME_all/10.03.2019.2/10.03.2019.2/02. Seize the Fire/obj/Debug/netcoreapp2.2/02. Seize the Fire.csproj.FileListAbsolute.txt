@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\bin\Debug\netcoreapp2.2\02. Seize the Fire.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\bin\Debug\netcoreapp2.2\02. Seize the Fire.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\bin\Debug\netcoreapp2.2\02. Seize the Fire.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\bin\Debug\netcoreapp2.2\02. Seize the Fire.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\bin\Debug\netcoreapp2.2\02. Seize the Fire.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\obj\Debug\netcoreapp2.2\02. Seize the Fire.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\obj\Debug\netcoreapp2.2\02. Seize the Fire.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\obj\Debug\netcoreapp2.2\02. Seize the Fire.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\obj\Debug\netcoreapp2.2\02. Seize the Fire.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\obj\Debug\netcoreapp2.2\02. Seize the Fire.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.2\10.03.2019.2\02. Seize the Fire\obj\Debug\netcoreapp2.2\02. Seize the Fire.pdb

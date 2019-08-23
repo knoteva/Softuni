@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\bin\Debug\netcoreapp2.2\02. Feed the Animals.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\bin\Debug\netcoreapp2.2\02. Feed the Animals.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\bin\Debug\netcoreapp2.2\02. Feed the Animals.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\bin\Debug\netcoreapp2.2\02. Feed the Animals.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\bin\Debug\netcoreapp2.2\02. Feed the Animals.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\obj\Debug\netcoreapp2.2\02. Feed the Animals.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\obj\Debug\netcoreapp2.2\02. Feed the Animals.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\obj\Debug\netcoreapp2.2\02. Feed the Animals.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\obj\Debug\netcoreapp2.2\02. Feed the Animals.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\obj\Debug\netcoreapp2.2\02. Feed the Animals.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\02. Feed the Animals\obj\Debug\netcoreapp2.2\02. Feed the Animals.pdb

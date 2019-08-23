@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\bin\Debug\netcoreapp2.2\02. Practice Sessions.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\bin\Debug\netcoreapp2.2\02. Practice Sessions.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\bin\Debug\netcoreapp2.2\02. Practice Sessions.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\bin\Debug\netcoreapp2.2\02. Practice Sessions.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\bin\Debug\netcoreapp2.2\02. Practice Sessions.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\obj\Debug\netcoreapp2.2\02. Practice Sessions.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\obj\Debug\netcoreapp2.2\02. Practice Sessions.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\obj\Debug\netcoreapp2.2\02. Practice Sessions.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\obj\Debug\netcoreapp2.2\02. Practice Sessions.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\obj\Debug\netcoreapp2.2\02. Practice Sessions.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_2\TFFE_14.04.2019_2\02. Practice Sessions\obj\Debug\netcoreapp2.2\02. Practice Sessions.csprojAssemblyReference.cache

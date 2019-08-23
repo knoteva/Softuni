@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.pdb

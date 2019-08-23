@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.2\01. Spring Vacation Trip.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.2\01. Spring Vacation Trip.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.2\01. Spring Vacation Trip.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.2\01. Spring Vacation Trip.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.2\01. Spring Vacation Trip.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.2\01. Spring Vacation Trip.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.2\01. Spring Vacation Trip.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.2\01. Spring Vacation Trip.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.2\01. Spring Vacation Trip.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.2\01. Spring Vacation Trip.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.2\01. Spring Vacation Trip.pdb

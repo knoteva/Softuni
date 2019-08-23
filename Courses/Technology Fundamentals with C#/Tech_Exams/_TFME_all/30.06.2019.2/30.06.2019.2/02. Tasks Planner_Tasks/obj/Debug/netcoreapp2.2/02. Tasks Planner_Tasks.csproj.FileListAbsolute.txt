@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\bin\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\bin\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\bin\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\bin\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\bin\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\obj\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\obj\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\obj\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\obj\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\obj\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\02. Tasks Planner_Tasks\obj\Debug\netcoreapp2.2\02. Tasks Planner_Tasks.pdb

@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\bin\Debug\netcoreapp2.2\01. Giftbox Coverage.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\bin\Debug\netcoreapp2.2\01. Giftbox Coverage.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\bin\Debug\netcoreapp2.2\01. Giftbox Coverage.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\bin\Debug\netcoreapp2.2\01. Giftbox Coverage.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\bin\Debug\netcoreapp2.2\01. Giftbox Coverage.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\obj\Debug\netcoreapp2.2\01. Giftbox Coverage.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\obj\Debug\netcoreapp2.2\01. Giftbox Coverage.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\obj\Debug\netcoreapp2.2\01. Giftbox Coverage.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\obj\Debug\netcoreapp2.2\01. Giftbox Coverage.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\obj\Debug\netcoreapp2.2\01. Giftbox Coverage.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\30.06.2019.2\30.06.2019.2\01. Giftbox Coverage\obj\Debug\netcoreapp2.2\01. Giftbox Coverage.pdb

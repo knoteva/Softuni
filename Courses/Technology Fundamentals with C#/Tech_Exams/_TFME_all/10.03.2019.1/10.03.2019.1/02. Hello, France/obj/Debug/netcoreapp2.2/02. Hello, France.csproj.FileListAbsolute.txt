@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\bin\Debug\netcoreapp2.2\02. Hello, France.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\bin\Debug\netcoreapp2.2\02. Hello, France.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\bin\Debug\netcoreapp2.2\02. Hello, France.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\bin\Debug\netcoreapp2.2\02. Hello, France.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\bin\Debug\netcoreapp2.2\02. Hello, France.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\obj\Debug\netcoreapp2.2\02. Hello, France.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\obj\Debug\netcoreapp2.2\02. Hello, France.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\obj\Debug\netcoreapp2.2\02. Hello, France.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\obj\Debug\netcoreapp2.2\02. Hello, France.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\obj\Debug\netcoreapp2.2\02. Hello, France.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\10.03.2019.1\10.03.2019.1\02. Hello, France\obj\Debug\netcoreapp2.2\02. Hello, France.pdb

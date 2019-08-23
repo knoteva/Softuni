@@ -1,0 +1,12 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.exe
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRDE_09.08.2019\TFRDE_09.08.2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.pdb

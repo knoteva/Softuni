@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\bin\Debug\netcoreapp2.2\01. Dictionary.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\bin\Debug\netcoreapp2.2\01. Dictionary.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\bin\Debug\netcoreapp2.2\01. Dictionary.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\bin\Debug\netcoreapp2.2\01. Dictionary.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\bin\Debug\netcoreapp2.2\01. Dictionary.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\obj\Debug\netcoreapp2.2\01. Dictionary.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\obj\Debug\netcoreapp2.2\01. Dictionary.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\obj\Debug\netcoreapp2.2\01. Dictionary.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\obj\Debug\netcoreapp2.2\01. Dictionary.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\obj\Debug\netcoreapp2.2\01. Dictionary.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\01. Dictionary\obj\Debug\netcoreapp2.2\01. Dictionary.pdb

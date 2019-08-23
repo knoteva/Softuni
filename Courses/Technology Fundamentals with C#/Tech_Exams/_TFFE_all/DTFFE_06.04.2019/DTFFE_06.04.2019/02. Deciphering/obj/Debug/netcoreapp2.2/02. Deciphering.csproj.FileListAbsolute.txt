@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\bin\Debug\netcoreapp2.2\02. Deciphering.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\bin\Debug\netcoreapp2.2\02. Deciphering.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\bin\Debug\netcoreapp2.2\02. Deciphering.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\bin\Debug\netcoreapp2.2\02. Deciphering.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\bin\Debug\netcoreapp2.2\02. Deciphering.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\obj\Debug\netcoreapp2.2\02. Deciphering.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\obj\Debug\netcoreapp2.2\02. Deciphering.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\obj\Debug\netcoreapp2.2\02. Deciphering.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\obj\Debug\netcoreapp2.2\02. Deciphering.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\obj\Debug\netcoreapp2.2\02. Deciphering.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\DTFFE_06.04.2019\DTFFE_06.04.2019\02. Deciphering\obj\Debug\netcoreapp2.2\02. Deciphering.pdb

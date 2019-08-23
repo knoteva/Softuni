@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_20.12.2018\TFFE_20.12.2018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.pdb

@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\04.11.2018\04.11.2018\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.pdb

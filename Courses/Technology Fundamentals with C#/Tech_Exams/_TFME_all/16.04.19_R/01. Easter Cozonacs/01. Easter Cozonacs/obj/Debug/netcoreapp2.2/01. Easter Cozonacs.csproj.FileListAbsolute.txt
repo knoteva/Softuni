@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\bin\Debug\netcoreapp2.2\01. Easter Cozonacs.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\bin\Debug\netcoreapp2.2\01. Easter Cozonacs.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\bin\Debug\netcoreapp2.2\01. Easter Cozonacs.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\bin\Debug\netcoreapp2.2\01. Easter Cozonacs.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\bin\Debug\netcoreapp2.2\01. Easter Cozonacs.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\obj\Debug\netcoreapp2.2\01. Easter Cozonacs.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\obj\Debug\netcoreapp2.2\01. Easter Cozonacs.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\obj\Debug\netcoreapp2.2\01. Easter Cozonacs.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\obj\Debug\netcoreapp2.2\01. Easter Cozonacs.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\obj\Debug\netcoreapp2.2\01. Easter Cozonacs.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\16.04.19_R\01. Easter Cozonacs\01. Easter Cozonacs\obj\Debug\netcoreapp2.2\01. Easter Cozonacs.pdb

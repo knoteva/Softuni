@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_14.04.2019_1\TFFE_14.04.2019_1\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.pdb

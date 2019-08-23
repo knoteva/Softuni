@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\bin\Debug\netcoreapp2.2\02. Bread Factory.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\bin\Debug\netcoreapp2.2\02. Bread Factory.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\bin\Debug\netcoreapp2.2\02. Bread Factory.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\bin\Debug\netcoreapp2.2\02. Bread Factory.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\bin\Debug\netcoreapp2.2\02. Bread Factory.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\obj\Debug\netcoreapp2.2\02. Bread Factory.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\obj\Debug\netcoreapp2.2\02. Bread Factory.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\obj\Debug\netcoreapp2.2\02. Bread Factory.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\obj\Debug\netcoreapp2.2\02. Bread Factory.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\obj\Debug\netcoreapp2.2\02. Bread Factory.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\TFME_all\02.03.2019_D\02.03.2019_D\02. Bread Factory\obj\Debug\netcoreapp2.2\02. Bread Factory.pdb

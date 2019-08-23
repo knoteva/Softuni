@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFFE_16.12.2018\TFFE_16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.pdb

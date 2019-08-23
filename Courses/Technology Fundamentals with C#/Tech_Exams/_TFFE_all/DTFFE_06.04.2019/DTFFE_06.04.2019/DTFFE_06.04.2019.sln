@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29111.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Dictionary", "01. Dictionary\01. Dictionary.csproj", "{6619DEAA-45D4-4DB0-89E4-F6EC79E39922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Deciphering", "02. Deciphering\02. Deciphering.csproj", "{D4E762E9-5722-422B-84F1-271E4151A763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6619DEAA-45D4-4DB0-89E4-F6EC79E39922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6619DEAA-45D4-4DB0-89E4-F6EC79E39922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6619DEAA-45D4-4DB0-89E4-F6EC79E39922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6619DEAA-45D4-4DB0-89E4-F6EC79E39922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E762E9-5722-422B-84F1-271E4151A763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E762E9-5722-422B-84F1-271E4151A763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E762E9-5722-422B-84F1-271E4151A763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E762E9-5722-422B-84F1-271E4151A763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF0A304-D9E0-456B-AA5C-D6CF7E5B5BD2}
+	EndGlobalSection
+EndGlobal

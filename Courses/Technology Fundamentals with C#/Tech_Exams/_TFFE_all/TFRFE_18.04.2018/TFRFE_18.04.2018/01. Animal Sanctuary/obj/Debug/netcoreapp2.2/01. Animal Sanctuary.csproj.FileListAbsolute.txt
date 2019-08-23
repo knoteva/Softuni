@@ -1,0 +1,11 @@
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.2\01. Animal Sanctuary.deps.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.2\01. Animal Sanctuary.runtimeconfig.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.2\01. Animal Sanctuary.runtimeconfig.dev.json
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.2\01. Animal Sanctuary.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\bin\Debug\netcoreapp2.2\01. Animal Sanctuary.pdb
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.2\01. Animal Sanctuary.csprojAssemblyReference.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.2\01. Animal Sanctuary.csproj.CoreCompileInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.2\01. Animal Sanctuary.AssemblyInfoInputs.cache
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.2\01. Animal Sanctuary.AssemblyInfo.cs
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.2\01. Animal Sanctuary.dll
+D:\Programing\Softuni\Technology Fundamentals with C#\Tech-Exams\_TFFE_all\TFRFE_18.04.2018\TFRFE_18.04.2018\01. Animal Sanctuary\obj\Debug\netcoreapp2.2\01. Animal Sanctuary.pdb
