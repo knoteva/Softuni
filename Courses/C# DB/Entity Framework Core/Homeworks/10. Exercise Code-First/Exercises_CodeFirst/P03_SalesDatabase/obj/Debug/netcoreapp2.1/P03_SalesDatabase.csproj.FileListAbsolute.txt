@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\Programing\Softuni\01. Entity Framework Core\10. Exercise Code-First\Exercises_CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
