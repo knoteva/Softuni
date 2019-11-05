@@ -1,0 +1,21 @@
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\01. Problems.exe
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\06. Problem.exe
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\06. Problem.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\06. Problem.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\06. Problem.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\06. Problem.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\06. Problem.pdb
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\01. Problems.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\bin\Debug\netcoreapp3.1\01. Problems.pdb
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\obj\Debug\netcoreapp3.1\06. Problem.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\obj\Debug\netcoreapp3.1\06. Problem.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\obj\Debug\netcoreapp3.1\06. Problem.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\obj\Debug\netcoreapp3.1\06. Problem.csproj.CopyComplete
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\obj\Debug\netcoreapp3.1\06. Problem.dll
+D:\Programing\Softuni\01. Entity Framework Core\04. FetchingResultsetsADO.NET\AdoNetEx\06. problem\obj\Debug\netcoreapp3.1\06. Problem.pdb
