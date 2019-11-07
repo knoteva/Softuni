@@ -1,0 +1,8 @@
+D:\Programing\Softuni\01. Entity Framework Core\12. Exercise Entity Relations\Exercises_Entity_Relations\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.Models.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\12. Exercise Entity Relations\Exercises_Entity_Relations\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.Models.dll
+D:\Programing\Softuni\01. Entity Framework Core\12. Exercise Entity Relations\Exercises_Entity_Relations\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.Models.pdb
+D:\Programing\Softuni\01. Entity Framework Core\12. Exercise Entity Relations\Exercises_Entity_Relations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.Models.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. Entity Framework Core\12. Exercise Entity Relations\Exercises_Entity_Relations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\12. Exercise Entity Relations\Exercises_Entity_Relations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.Models.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\12. Exercise Entity Relations\Exercises_Entity_Relations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.Models.dll
+D:\Programing\Softuni\01. Entity Framework Core\12. Exercise Entity Relations\Exercises_Entity_Relations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.Models.pdb
