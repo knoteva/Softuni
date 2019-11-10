@@ -1,0 +1,297 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop\\BookShop.csproj": {}
+  },
+  "projects": {
+    "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Data\\BookShop.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Data\\BookShop.Data.csproj",
+        "projectName": "BookShop.Data",
+        "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Data\\BookShop.Data.csproj",
+        "packagesPath": "C:\\Users\\knote\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\knote\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+                "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview2-014569\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj",
+        "projectName": "BookShop.Initializer",
+        "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj",
+        "packagesPath": "C:\\Users\\knote\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Initializer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\knote\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Data\\BookShop.Data.csproj": {
+                "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Data\\BookShop.Data.csproj"
+              },
+              "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+                "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview2-014569\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj",
+        "projectName": "BookShop.Models",
+        "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj",
+        "packagesPath": "C:\\Users\\knote\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\knote\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview2-014569\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop\\BookShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop\\BookShop.csproj",
+        "projectName": "BookShop",
+        "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop\\BookShop.csproj",
+        "packagesPath": "C:\\Users\\knote\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\knote\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Data\\BookShop.Data.csproj": {
+                "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Data\\BookShop.Data.csproj"
+              },
+              "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj": {
+                "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj"
+              },
+              "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+                "projectPath": "D:\\Programing\\Softuni\\01. Entity Framework Core\\14. Exercise Advanced Querying\\BookShop\\BookShop.Models\\BookShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview2-014569\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

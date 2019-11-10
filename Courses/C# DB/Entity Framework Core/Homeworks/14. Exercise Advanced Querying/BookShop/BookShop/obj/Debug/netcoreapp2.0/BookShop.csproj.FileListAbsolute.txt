@@ -1,0 +1,17 @@
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CopyComplete
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+D:\Programing\Softuni\01. Entity Framework Core\14. Exercise Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb
