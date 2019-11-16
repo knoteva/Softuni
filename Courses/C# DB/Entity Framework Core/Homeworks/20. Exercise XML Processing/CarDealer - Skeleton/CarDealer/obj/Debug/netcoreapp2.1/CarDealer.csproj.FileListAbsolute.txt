@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

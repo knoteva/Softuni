@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Programing\Softuni\01. Entity Framework Core\20. Exercise XML Processing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
