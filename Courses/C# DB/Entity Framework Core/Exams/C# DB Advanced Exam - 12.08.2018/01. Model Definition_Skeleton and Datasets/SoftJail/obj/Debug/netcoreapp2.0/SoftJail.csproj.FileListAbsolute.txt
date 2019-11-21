@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 12.08.2018\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
