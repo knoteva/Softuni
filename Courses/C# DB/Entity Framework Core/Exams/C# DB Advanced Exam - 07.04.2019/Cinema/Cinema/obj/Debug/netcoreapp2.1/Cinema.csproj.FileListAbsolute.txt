@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
