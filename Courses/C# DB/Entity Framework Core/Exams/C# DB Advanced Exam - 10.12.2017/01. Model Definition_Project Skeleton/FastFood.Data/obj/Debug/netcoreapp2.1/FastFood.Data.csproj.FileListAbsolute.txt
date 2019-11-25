@@ -1,0 +1,11 @@
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb

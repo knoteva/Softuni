@@ -1,0 +1,17 @@
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.App.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.App.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.App.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.App.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.App.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.DataProcessor.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.DataProcessor.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.1\FastFood.App.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.1\FastFood.App.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.1\FastFood.App.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.1\FastFood.App.csproj.CopyComplete
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.1\FastFood.App.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam - 10.12.2017\01. Model Definition_Project Skeleton\FastFood.App\obj\Debug\netcoreapp2.1\FastFood.App.pdb
