@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.deps.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.dev.json
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfo.cs
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.dll
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.pdb
+D:\Programing\Softuni\01. Entity Framework Core\01. Exams\C# DB Advanced Exam Retake - 18.04.2019\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csprojAssemblyReference.cache
