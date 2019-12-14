@@ -16,8 +16,10 @@
     }
 
     .nav-alphabet ul { 
-        display: block;
-      
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding: 0 0 1,5rem 6rem;
+        
         
         li {
          display: block;
@@ -25,15 +27,19 @@
              a {
                  padding: 0;
                  text-transform: uppercase;
-                 font-family: 'Kosugi Maru', sans-serif;
-                 margin: 0.5em;
-                 color: white;
+                //  font-family: 'Kosugi Maru', sans-serif;
+                //  margin: 0.5em;
+                 color:$color-diff2; 
                  background: linear-gradient(90deg, $color-lightgray 0%, white 35%, white 100%);
-                 text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
-                 border-radius: 50%;
-                 font-size: 20px;
+                //  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
+                //  border-radius: 50%;
+                 font-size: 15px;
                  font-weight: bold;
              }
+
+            //  &:nth-child(1) a {
+            //     color:$color-diff; 
+            //  }
          }
      }
 
@@ -54,6 +60,10 @@
         p {
             font-size: 12px;
         }
+        
+        img {
+            width:40vw;
+        }
     }
 
     .register-movie input:nth-child(7), .register-movie input:nth-child(8){
@@ -67,4 +77,99 @@
       .btn-create {
         margin: 2rem 1rem;
       }
+
+      .one-row input+label {
+        font-weight: normal;
+
+        font-size: 13px;
+        padding: 0rem 0 0 1rem;
+     }
 }
+
+// to be deleted
+@include bp(mobile_medium)
+{ //1100px
+
+    .body {background-color: black;}
+   .list-grid-header {display: none;}
+
+   .list-grid  {
+
+       .invisible {
+           opacity: 1;
+           color: blueviolet;
+        }
+
+       display: grid;
+       grid-template-columns: 1fr;
+       border-top: 1px solid $color-lightgray;
+   }
+
+   .nav-alphabet ul { 
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       padding: 0 0 1,5rem 6rem;
+       
+       
+       li {
+        display: block;
+    
+            a {
+                padding: 0;
+                text-transform: uppercase;
+                font-family: 'Kosugi Maru', sans-serif;
+                margin: 0.5em;
+                color:$color-diff2; 
+                background: linear-gradient(90deg, $color-lightgray 0%, white 35%, white 100%);
+                text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
+                border-radius: 50%;
+                font-size: 20px;
+                font-weight: bold;
+            }
+
+           //  &:nth-child(1) a {
+           //     color:$color-diff; 
+           //  }
+        }
+    }
+
+    .news {
+
+       display: block;
+    //    grid-template-columns: 1fr;
+   
+       .title {
+           font-size: 13px;
+           font-weight: bold;
+       }
+
+       .first-new {
+           padding-bottom: 2rem;
+       }
+   
+       p {
+           font-size: 12px;
+       }
+   }
+
+   .register-movie input:nth-child(7), .register-movie input:nth-child(8){
+       width: 37%;
+     }
+
+     ::-webkit-input-placeholder {
+       font-size: 10px;
+     }
+     
+     .btn-create {
+       margin: 2rem 1rem;
+     }
+
+     .one-row input+label {
+        font-weight: normal;
+
+        font-size: 12px;
+        padding: 0rem 0 0 1rem;
+     }
+
+}
+

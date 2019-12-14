@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/knoteva/Softuni/tree/master/Projects/Movie-Catalog-master"
+    "url": "git+https://github.com/d1ma1/Movie-Catalog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/knoteva/Softuni/tree/master/Projects/Movie-Catalog-master"
+    "url": "https://github.com/d1ma1/Movie-Catalog/issues"
   },
-  "homepage": "https://github.com/knoteva/Softuni/tree/master/Projects/Movie-Catalog-master",
+  "homepage": "https://github.com/d1ma1/Movie-Catalog#readme",
   "dependencies": {
     "gulp-sass": "^4.0.2"
   },

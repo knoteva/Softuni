@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/site.css">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Kosugi+Maru&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="all-ie-only.css" />
     <title>Каталог филми</title>
 
 </head>
@@ -44,13 +45,15 @@
             <nav class="site-nav">
                 <ul>
                     <li><a href="{{ site.baseurl }}index.html">начало</a></li>
-                    <li><a href="{{ site.baseurl }}all_movies.html">списък филми (а-я)</a></li>
+                    <li><a href="{{ site.baseurl }}all_movies">списък филми (а-я)</a></li>
                     <li><a href="{{ site.baseurl }}registration.html">регистрирай филм</a></li>
                     <li><a href="{{ site.baseurl }}news.html">новини</a></li>
                 </ul>
             </nav>
 
-            <div class="bg"></div>
+            <div class="bg">
+                <img src="images/testи.jpg" srcset="images/test.jpg 500w, images/test.jpg 1000w" alt="">
+            </div>
         </header>
        
         {{ content }}
