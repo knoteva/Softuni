@@ -1,0 +1,28 @@
+.news {
+
+    border: 1px solid $color-lightgray;
+    border-radius: 0.3rem;
+    padding: 2rem 6rem;
+    display: flex;
+
+
+    .title {
+        font-size: 15px;
+        font-weight: bold;
+    }
+    img {
+        padding-bottom: 1rem;
+        float: left;
+        width: 20vw;
+        padding: 1rem;
+    }
+
+    .first-new {
+       padding-right: 2rem;
+    }
+
+    p {
+        padding-bottom: 1rem;;
+    }
+
+}

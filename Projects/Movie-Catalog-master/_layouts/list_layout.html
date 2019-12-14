@@ -1,0 +1,37 @@
+---
+layout: main
+---
+<main class="site-movies">
+
+    <h4 class="latest-text">Каталог</h4>
+
+    <nav class="nav-alphabet">
+
+        <ul>
+            <li><a href="{{ site.baseurl }}all_movies.html">Филми</a></li>
+            <li><a href="{{ site.baseurl }}0-9.html">0 - 9</a></li>
+            <li><a href="{{ site.baseurl }}a-d.html">А - Д</a></li>
+            <li><a href="{{ site.baseurl }}e-i.html">Е - И</a></li>
+            <li><a href="{{ site.baseurl }}y-o.html">Й - О</a></li>
+            <li><a href="{{ site.baseurl }}p-u.html"> П - У</a></li>
+            <li><a href="{{ site.baseurl }}f-sh.html">Ф - Ш</a></li>
+            <li><a href="{{ site.baseurl }}sht-ya.html">Щ - Я</a></li>           
+        </ul>
+    </nav>
+
+    <section class="list">
+        <div class="list-grid-header">
+            <div>Заглавие</div>
+            <div>Режисьор</div>
+            <div>Актьори</div>
+            <div>Държава</div>
+            <div>Година</div>
+            <div>Жанр</div>
+            <div>IMDB Рейтинг</div>
+            <div>Гледай онлайн</div>
+        </div>
+
+        {{ content }}
+
+    </section>
+</main>

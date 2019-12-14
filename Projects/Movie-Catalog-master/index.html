@@ -1,0 +1,28 @@
+---
+layout: main
+---
+
+<main class="site-main">
+    <h4 class="latest-text">Най-високо оценени филми</h4>
+
+    <div class="movie">
+
+    {% for movies in site.topmovies %}
+    <div class="movie{{ movies.image }} "> 
+        <img src="images/{{ movies.image }}.jpg" alt=""> 
+        <!-- <a href="{{ movies.url }}/movies.html">natisni</a> -->
+        <p> {{ movies.name }} ({{ movies.year }})</p>
+        <div class="info">
+            <div class="stars">   
+                        
+                {% for i in (1..10) %}
+                    <i class="fas fa-star"></i>
+                {% endfor %}
+                <span>{{ movies.stars }}  </span>
+            </div>
+        </div>
+    </div> 
+    {% endfor %}
+    </div>
+</main>
+

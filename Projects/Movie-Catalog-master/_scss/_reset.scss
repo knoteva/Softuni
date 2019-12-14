@@ -1,0 +1,24 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+html {
+    box-sizing: border-box;
+}
+  
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    position: relative;
+    // min-width:100vw;
+    // min-height:100vh;
+
+    display: flex;
+    flex-direction: column;
+    height: 100vh; 
+}

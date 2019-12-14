@@ -1,0 +1,45 @@
+.site-footer {
+    // position: absolute;	
+    display: flex;	
+    justify-content: space-between;	
+    align-items: center;
+    // width: 100%;	
+    // height: 4rem;       	
+    background-color: black;	
+    color: white;
+    flex-shrink: 0; 
+    padding: 0.5rem;
+    
+    .info {
+      padding-left: 6rem;
+    }
+
+    .social {
+      padding-right: 6rem;
+
+      ul {
+
+        display: flex;
+
+        li {
+            display: block;
+            transition: transform 0.3s ease-in-out;    
+        }
+
+        li:hover {
+            transform: scale(1.3);  
+            
+        }
+
+        li a {
+            text-decoration: none;
+            padding: 1rem 1.5rem;
+            color: white;
+            font-size: 25px;
+        }
+      }
+    }
+
+}
+
+

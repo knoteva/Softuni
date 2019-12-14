@@ -1,0 +1,53 @@
+
+.box {
+    width: 0.1em;
+    height: 0.1em;
+    opacity: 0;
+    animation: snowflake 20s linear infinite forwards;
+}
+
+.snow1 {
+    animation-delay: 2s;
+}
+
+.snow2 {
+    animation-delay: 10s;
+}
+
+.snow3 {
+    animation-delay: 15s;
+}
+
+@keyframes snowflake {
+    0% {
+        transform: translateY(0);
+        opacity: 0;
+    }
+
+    20% {
+        transform: translateY(20vh);
+        opacity: 0.5;
+    }
+
+    40% {
+        transform: translateY(40vh);
+        opacity: 1;
+    }
+
+    60% {
+        transform: translateY(60vh);
+        opacity: 0.5;
+    }
+
+    80% {
+        transform: translateY(80vh);
+        opacity: 0.3;
+    }
+
+
+    100% {
+        transform: translateY(90vh);
+        opacity: 0;
+    }
+}
+
