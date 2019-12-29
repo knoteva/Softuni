@@ -1,0 +1,11 @@
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\bin\Debug\netcoreapp2.1\CustomList.deps.json
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.json
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\bin\Debug\netcoreapp2.1\CustomList.dll
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\bin\Debug\netcoreapp2.1\CustomList.pdb
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\obj\Debug\netcoreapp2.1\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\obj\Debug\netcoreapp2.1\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\obj\Debug\netcoreapp2.1\CustomList.dll
+C:\Users\Stoyan\Desktop\Exam Preparation\SimpleSnakeOrginal\CustomList\obj\Debug\netcoreapp2.1\CustomList.pdb

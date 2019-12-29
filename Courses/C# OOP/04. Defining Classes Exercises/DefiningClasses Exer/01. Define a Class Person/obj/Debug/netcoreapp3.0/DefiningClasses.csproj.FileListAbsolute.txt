@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\bin\Debug\netcoreapp3.0\DefiningClasses.exe
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\bin\Debug\netcoreapp3.0\DefiningClasses.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\bin\Debug\netcoreapp3.0\DefiningClasses.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\bin\Debug\netcoreapp3.0\DefiningClasses.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\obj\Debug\netcoreapp3.0\DefiningClasses.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\01. Define a Class Person\obj\Debug\netcoreapp3.0\DefiningClasses.pdb

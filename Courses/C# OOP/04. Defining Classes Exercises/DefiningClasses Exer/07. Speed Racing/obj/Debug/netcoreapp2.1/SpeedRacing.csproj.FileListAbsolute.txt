@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\bin\Debug\netcoreapp2.1\SpeedRacing.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\bin\Debug\netcoreapp2.1\SpeedRacing.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\bin\Debug\netcoreapp2.1\SpeedRacing.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\obj\Debug\netcoreapp2.1\SpeedRacing.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\obj\Debug\netcoreapp2.1\SpeedRacing.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\07. Speed Racing\obj\Debug\netcoreapp2.1\SpeedRacing.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp2.1\01.SingleInheritance.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp2.1\01.SingleInheritance.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp2.1\01.SingleInheritance.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp2.1\01.SingleInheritance.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp2.1\01.SingleInheritance.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp2.1\01.SingleInheritance.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp2.1\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp2.1\01.SingleInheritance.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp2.1\01.SingleInheritance.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp2.1\01.SingleInheritance.pdb

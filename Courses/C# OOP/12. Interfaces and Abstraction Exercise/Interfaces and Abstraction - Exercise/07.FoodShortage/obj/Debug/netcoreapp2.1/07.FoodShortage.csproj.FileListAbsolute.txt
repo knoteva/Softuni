@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\bin\Debug\netcoreapp2.1\07.FoodShortage.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\07.FoodShortage\obj\Debug\netcoreapp2.1\07.FoodShortage.csprojAssemblyReference.cache

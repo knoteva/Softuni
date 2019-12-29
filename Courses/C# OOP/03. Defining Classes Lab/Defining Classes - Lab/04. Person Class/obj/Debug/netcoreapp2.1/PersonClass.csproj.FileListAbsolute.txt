@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.1\PersonClass.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.1\PersonClass.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.1\PersonClass.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.1\PersonClass.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.1\PersonClass.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.1\PersonClass.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.1\PersonClass.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.1\PersonClass.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.1\PersonClass.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.1\PersonClass.csprojAssemblyReference.cache

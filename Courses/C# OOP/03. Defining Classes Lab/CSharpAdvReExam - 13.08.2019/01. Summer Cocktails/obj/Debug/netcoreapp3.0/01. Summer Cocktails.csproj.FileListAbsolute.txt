@@ -1,0 +1,11 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\bin\Debug\netcoreapp3.0\01. Summer Cocktails.exe
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\bin\Debug\netcoreapp3.0\01. Summer Cocktails.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\bin\Debug\netcoreapp3.0\01. Summer Cocktails.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\bin\Debug\netcoreapp3.0\01. Summer Cocktails.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\bin\Debug\netcoreapp3.0\01. Summer Cocktails.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\bin\Debug\netcoreapp3.0\01. Summer Cocktails.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\obj\Debug\netcoreapp3.0\01. Summer Cocktails.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\obj\Debug\netcoreapp3.0\01. Summer Cocktails.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\obj\Debug\netcoreapp3.0\01. Summer Cocktails.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\obj\Debug\netcoreapp3.0\01. Summer Cocktails.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\CSharpAdvReExam - 13.08.2019\01. Summer Cocktails\obj\Debug\netcoreapp3.0\01. Summer Cocktails.pdb

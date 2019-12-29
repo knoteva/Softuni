@@ -1,0 +1,10 @@
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.03.2018_v2\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojAssemblyReference.cache

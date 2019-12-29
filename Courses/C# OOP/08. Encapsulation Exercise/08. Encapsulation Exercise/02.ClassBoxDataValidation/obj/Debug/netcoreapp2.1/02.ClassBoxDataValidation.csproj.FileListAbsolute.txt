@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.csprojAssemblyReference.cache

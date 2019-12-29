@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\obj\Debug\netcoreapp2.1\FamilyTree.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\obj\Debug\netcoreapp2.1\FamilyTree.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\bin\Debug\netcoreapp2.1\FamilyTree.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\bin\Debug\netcoreapp2.1\FamilyTree.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\bin\Debug\netcoreapp2.1\FamilyTree.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\bin\Debug\netcoreapp2.1\FamilyTree.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\bin\Debug\netcoreapp2.1\FamilyTree.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\obj\Debug\netcoreapp2.1\FamilyTree.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\13. Family Tree\obj\Debug\netcoreapp2.1\FamilyTree.pdb

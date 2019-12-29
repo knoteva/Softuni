@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Exam - 14.04.2019\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.pdb

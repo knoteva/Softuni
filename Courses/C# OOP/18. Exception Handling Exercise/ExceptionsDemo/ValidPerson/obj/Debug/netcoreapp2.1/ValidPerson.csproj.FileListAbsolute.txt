@@ -1,0 +1,11 @@
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\bin\Debug\netcoreapp2.1\ValidPerson.deps.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\bin\Debug\netcoreapp2.1\ValidPerson.runtimeconfig.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\bin\Debug\netcoreapp2.1\ValidPerson.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\bin\Debug\netcoreapp2.1\ValidPerson.dll
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\bin\Debug\netcoreapp2.1\ValidPerson.pdb
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\obj\Debug\netcoreapp2.1\ValidPerson.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\obj\Debug\netcoreapp2.1\ValidPerson.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\obj\Debug\netcoreapp2.1\ValidPerson.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\obj\Debug\netcoreapp2.1\ValidPerson.dll
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\obj\Debug\netcoreapp2.1\ValidPerson.pdb
+C:\Users\Stoyan\source\repos\ExceptionExercises\ValidPerson\obj\Debug\netcoreapp2.1\ValidPerson.csprojResolveAssemblyReference.cache

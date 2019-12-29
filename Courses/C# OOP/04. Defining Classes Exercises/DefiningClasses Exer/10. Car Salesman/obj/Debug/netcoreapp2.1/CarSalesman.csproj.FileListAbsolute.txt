@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\10. Car Salesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb

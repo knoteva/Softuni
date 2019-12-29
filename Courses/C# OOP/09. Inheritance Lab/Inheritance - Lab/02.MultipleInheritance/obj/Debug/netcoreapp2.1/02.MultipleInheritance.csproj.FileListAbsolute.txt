@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.1\02.MultipleInheritance.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.1\02.MultipleInheritance.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.1\02.MultipleInheritance.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.1\02.MultipleInheritance.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.1\02.MultipleInheritance.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.1\02.MultipleInheritance.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.1\02.MultipleInheritance.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.1\02.MultipleInheritance.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.1\02.MultipleInheritance.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\09. Inheritance Lab\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.1\02.MultipleInheritance.pdb

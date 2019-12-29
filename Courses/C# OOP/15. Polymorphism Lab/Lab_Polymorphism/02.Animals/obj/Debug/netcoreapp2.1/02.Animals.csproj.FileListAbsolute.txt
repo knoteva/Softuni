@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\bin\Debug\netcoreapp2.1\02.Animals.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\bin\Debug\netcoreapp2.1\02.Animals.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\bin\Debug\netcoreapp2.1\02.Animals.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\bin\Debug\netcoreapp2.1\02.Animals.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\bin\Debug\netcoreapp2.1\02.Animals.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\obj\Debug\netcoreapp2.1\02.Animals.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\obj\Debug\netcoreapp2.1\02.Animals.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\obj\Debug\netcoreapp2.1\02.Animals.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\obj\Debug\netcoreapp2.1\02.Animals.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\02.Animals\obj\Debug\netcoreapp2.1\02.Animals.pdb

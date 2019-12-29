@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP\C# OOP Retake Exam - 18.04.2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb

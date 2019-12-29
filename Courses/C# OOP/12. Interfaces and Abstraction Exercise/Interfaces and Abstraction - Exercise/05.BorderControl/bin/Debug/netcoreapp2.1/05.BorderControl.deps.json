@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "05.BorderControl/1.0.0": {
+        "runtime": {
+          "05.BorderControl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05.BorderControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

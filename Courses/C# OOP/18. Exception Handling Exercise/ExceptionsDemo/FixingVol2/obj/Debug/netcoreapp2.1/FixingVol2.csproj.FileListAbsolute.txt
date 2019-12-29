@@ -1,0 +1,11 @@
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\bin\Debug\netcoreapp2.1\FixingVol2.deps.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\bin\Debug\netcoreapp2.1\FixingVol2.runtimeconfig.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\bin\Debug\netcoreapp2.1\FixingVol2.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\bin\Debug\netcoreapp2.1\FixingVol2.dll
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\bin\Debug\netcoreapp2.1\FixingVol2.pdb
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\obj\Debug\netcoreapp2.1\FixingVol2.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\obj\Debug\netcoreapp2.1\FixingVol2.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\obj\Debug\netcoreapp2.1\FixingVol2.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\obj\Debug\netcoreapp2.1\FixingVol2.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\obj\Debug\netcoreapp2.1\FixingVol2.dll
+C:\Users\Stoyan\source\repos\ExceptionExercises\FixingVol2\obj\Debug\netcoreapp2.1\FixingVol2.pdb

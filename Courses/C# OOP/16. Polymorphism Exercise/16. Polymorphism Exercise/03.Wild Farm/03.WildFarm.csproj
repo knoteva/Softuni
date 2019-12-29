@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_03.Wild_Farm</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Animals\%25EF%2582%25A7 Mammals\**" />
+    <Compile Remove="Animals\A\**" />
+    <EmbeddedResource Remove="Animals\%25EF%2582%25A7 Mammals\**" />
+    <EmbeddedResource Remove="Animals\A\**" />
+    <None Remove="Animals\%25EF%2582%25A7 Mammals\**" />
+    <None Remove="Animals\A\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Animals\ Mammals\" />
+  </ItemGroup>
+
+</Project>

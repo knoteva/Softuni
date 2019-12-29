@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\bin\Debug\netcoreapp2.1\01. Vehicles.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\bin\Debug\netcoreapp2.1\01. Vehicles.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\bin\Debug\netcoreapp2.1\01. Vehicles.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\bin\Debug\netcoreapp2.1\01. Vehicles.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\bin\Debug\netcoreapp2.1\01. Vehicles.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\obj\Debug\netcoreapp2.1\01. Vehicles.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\obj\Debug\netcoreapp2.1\01. Vehicles.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\obj\Debug\netcoreapp2.1\01. Vehicles.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\obj\Debug\netcoreapp2.1\01. Vehicles.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\01. Vehicles\obj\Debug\netcoreapp2.1\01. Vehicles.pdb

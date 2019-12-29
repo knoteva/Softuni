@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.1\03.AnimalFarm.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.1\03.AnimalFarm.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.1\03.AnimalFarm.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.1\03.AnimalFarm.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.1\03.AnimalFarm.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.1\03.AnimalFarm.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.1\03.AnimalFarm.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.1\03.AnimalFarm.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.1\03.AnimalFarm.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.1\03.AnimalFarm.csprojAssemblyReference.cache

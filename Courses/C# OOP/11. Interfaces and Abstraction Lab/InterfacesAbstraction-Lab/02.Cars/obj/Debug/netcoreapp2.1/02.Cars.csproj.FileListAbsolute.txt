@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.1\02.Cars.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.1\02.Cars.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.1\02.Cars.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.1\02.Cars.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\bin\Debug\netcoreapp2.1\02.Cars.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.1\02.Cars.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.1\02.Cars.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.1\02.Cars.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.1\02.Cars.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\02.Cars\obj\Debug\netcoreapp2.1\02.Cars.pdb

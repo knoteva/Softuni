@@ -1,0 +1,11 @@
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\knote\Desktop\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache

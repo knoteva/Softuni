@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.pdb

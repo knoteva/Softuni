@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.1\01.Shapes.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.1\01.Shapes.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.1\01.Shapes.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.1\01.Shapes.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.1\01.Shapes.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.1\01.Shapes.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.1\01.Shapes.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.1\01.Shapes.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.1\01.Shapes.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\11. Interfaces and Abstraction Lab\InterfacesAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.1\01.Shapes.pdb

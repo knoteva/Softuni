@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\bin\Debug\netcoreapp2.1\05.MordorCruelPlan.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\bin\Debug\netcoreapp2.1\05.MordorCruelPlan.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\bin\Debug\netcoreapp2.1\05.MordorCruelPlan.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\bin\Debug\netcoreapp2.1\05.MordorCruelPlan.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\bin\Debug\netcoreapp2.1\05.MordorCruelPlan.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\obj\Debug\netcoreapp2.1\05.MordorCruelPlan.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\obj\Debug\netcoreapp2.1\05.MordorCruelPlan.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\obj\Debug\netcoreapp2.1\05.MordorCruelPlan.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\obj\Debug\netcoreapp2.1\05.MordorCruelPlan.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\05.MordorCruelPlan\obj\Debug\netcoreapp2.1\05.MordorCruelPlan.csprojAssemblyReference.cache

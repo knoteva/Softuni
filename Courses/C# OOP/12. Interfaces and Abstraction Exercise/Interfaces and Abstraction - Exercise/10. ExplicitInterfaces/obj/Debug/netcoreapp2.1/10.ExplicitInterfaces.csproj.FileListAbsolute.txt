@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\bin\Debug\netcoreapp2.1\10.ExplicitInterfaces.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\bin\Debug\netcoreapp2.1\10.ExplicitInterfaces.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\bin\Debug\netcoreapp2.1\10.ExplicitInterfaces.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\bin\Debug\netcoreapp2.1\10.ExplicitInterfaces.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\bin\Debug\netcoreapp2.1\10.ExplicitInterfaces.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\obj\Debug\netcoreapp2.1\10.ExplicitInterfaces.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\obj\Debug\netcoreapp2.1\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\obj\Debug\netcoreapp2.1\10.ExplicitInterfaces.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\obj\Debug\netcoreapp2.1\10.ExplicitInterfaces.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\10. ExplicitInterfaces\obj\Debug\netcoreapp2.1\10.ExplicitInterfaces.pdb

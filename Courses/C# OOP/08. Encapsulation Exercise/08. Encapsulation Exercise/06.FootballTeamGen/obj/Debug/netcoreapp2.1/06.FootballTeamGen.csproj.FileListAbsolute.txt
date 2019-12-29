@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\bin\Debug\netcoreapp2.1\06.FootballTeamGen.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\bin\Debug\netcoreapp2.1\06.FootballTeamGen.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\bin\Debug\netcoreapp2.1\06.FootballTeamGen.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\bin\Debug\netcoreapp2.1\06.FootballTeamGen.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\bin\Debug\netcoreapp2.1\06.FootballTeamGen.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\obj\Debug\netcoreapp2.1\06.FootballTeamGen.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\obj\Debug\netcoreapp2.1\06.FootballTeamGen.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\obj\Debug\netcoreapp2.1\06.FootballTeamGen.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\obj\Debug\netcoreapp2.1\06.FootballTeamGen.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\06.FootballTeamGen\obj\Debug\netcoreapp2.1\06.FootballTeamGen.pdb

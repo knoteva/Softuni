@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.pdb

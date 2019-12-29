@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\bin\Debug\netcoreapp2.1\02.BookShop.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\bin\Debug\netcoreapp2.1\02.BookShop.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\bin\Debug\netcoreapp2.1\02.BookShop.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\bin\Debug\netcoreapp2.1\02.BookShop.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\bin\Debug\netcoreapp2.1\02.BookShop.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\obj\Debug\netcoreapp2.1\02.BookShop.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\obj\Debug\netcoreapp2.1\02.BookShop.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\obj\Debug\netcoreapp2.1\02.BookShop.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\obj\Debug\netcoreapp2.1\02.BookShop.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\02.BookShop\obj\Debug\netcoreapp2.1\02.BookShop.csprojAssemblyReference.cache

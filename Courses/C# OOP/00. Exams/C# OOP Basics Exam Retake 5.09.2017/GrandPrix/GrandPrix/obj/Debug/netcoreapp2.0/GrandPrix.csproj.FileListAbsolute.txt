@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake 5.09.2017\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.pdb

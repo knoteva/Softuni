@@ -1,0 +1,10 @@
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\Programing\Softuni\02. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam Retake - 19.04.2019_v2\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb

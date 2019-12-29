@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\bin\Debug\netcoreapp2.1\06.Animals.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\06.Animals\obj\Debug\netcoreapp2.1\06.Animals.pdb

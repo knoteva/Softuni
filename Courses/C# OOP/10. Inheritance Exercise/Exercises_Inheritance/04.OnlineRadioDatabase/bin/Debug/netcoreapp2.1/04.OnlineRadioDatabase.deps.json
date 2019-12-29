@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "04.OnlineRadioDatabase/1.0.0": {
+        "runtime": {
+          "04.OnlineRadioDatabase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04.OnlineRadioDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

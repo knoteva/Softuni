@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.1\01.MathOperation.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.1\01.MathOperation.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.1\01.MathOperation.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.1\01.MathOperation.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\bin\Debug\netcoreapp2.1\01.MathOperation.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.1\01.MathOperation.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.1\01.MathOperation.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.1\01.MathOperation.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.1\01.MathOperation.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\15. Polymorphism Lab\Lab_Polymorphism\01.MathOperation\obj\Debug\netcoreapp2.1\01.MathOperation.pdb

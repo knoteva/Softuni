@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\bin\Debug\netcoreapp2.1\01. People.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\bin\Debug\netcoreapp2.1\01. People.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\bin\Debug\netcoreapp2.1\01. People.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\bin\Debug\netcoreapp2.1\01. People.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\bin\Debug\netcoreapp2.1\01. People.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\obj\Debug\netcoreapp2.1\01. People.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\obj\Debug\netcoreapp2.1\01. People.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\obj\Debug\netcoreapp2.1\01. People.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\07. Encapsulation Lab\07. Encapsulation Lab\01. People\obj\Debug\netcoreapp2.1\01. People.pdb

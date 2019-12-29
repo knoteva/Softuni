@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\bin\Debug\netcoreapp2.1\RawData.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\bin\Debug\netcoreapp2.1\RawData.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\bin\Debug\netcoreapp2.1\RawData.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\obj\Debug\netcoreapp2.1\RawData.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\08. Raw Data\obj\Debug\netcoreapp2.1\RawData.pdb

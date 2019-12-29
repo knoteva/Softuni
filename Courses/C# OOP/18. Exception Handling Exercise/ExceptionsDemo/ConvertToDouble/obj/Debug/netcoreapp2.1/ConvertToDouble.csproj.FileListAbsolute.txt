@@ -1,0 +1,11 @@
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\bin\Debug\netcoreapp2.1\ConvertToDouble.deps.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\bin\Debug\netcoreapp2.1\ConvertToDouble.runtimeconfig.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\bin\Debug\netcoreapp2.1\ConvertToDouble.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\bin\Debug\netcoreapp2.1\ConvertToDouble.dll
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\bin\Debug\netcoreapp2.1\ConvertToDouble.pdb
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\obj\Debug\netcoreapp2.1\ConvertToDouble.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\obj\Debug\netcoreapp2.1\ConvertToDouble.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\obj\Debug\netcoreapp2.1\ConvertToDouble.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\obj\Debug\netcoreapp2.1\ConvertToDouble.dll
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\obj\Debug\netcoreapp2.1\ConvertToDouble.pdb
+C:\Users\Stoyan\source\repos\ExceptionExercises\ConvertToDouble\obj\Debug\netcoreapp2.1\ConvertToDouble.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\bin\Debug\netcoreapp2.1\03.WildFarm.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\bin\Debug\netcoreapp2.1\03.WildFarm.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\bin\Debug\netcoreapp2.1\03.WildFarm.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\bin\Debug\netcoreapp2.1\03.WildFarm.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\bin\Debug\netcoreapp2.1\03.WildFarm.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\obj\Debug\netcoreapp2.1\03.WildFarm.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\obj\Debug\netcoreapp2.1\03.WildFarm.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\obj\Debug\netcoreapp2.1\03.WildFarm.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\16. Polymorphism Exercise\16. Polymorphism Exercise\03.Wild Farm\obj\Debug\netcoreapp2.1\03.WildFarm.pdb

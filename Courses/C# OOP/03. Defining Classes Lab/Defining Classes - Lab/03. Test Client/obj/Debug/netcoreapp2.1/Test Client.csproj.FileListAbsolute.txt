@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.1\Test Client.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.1\Test Client.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.1\Test Client.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.1\Test Client.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.1\Test Client.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.1\Test Client.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.1\Test Client.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.1\Test Client.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.1\Test Client.pdb

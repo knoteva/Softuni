@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\00. Exams\C# OOP Basics Exam - 18.11.2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.pdb

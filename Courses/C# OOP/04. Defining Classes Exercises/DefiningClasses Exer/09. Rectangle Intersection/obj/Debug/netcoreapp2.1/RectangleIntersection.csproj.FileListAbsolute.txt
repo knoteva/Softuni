@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\RectangleIntersection.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\RectangleIntersection.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\RectangleIntersection.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\RectangleIntersection.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\RectangleIntersection.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\RectangleIntersection.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\RectangleIntersection.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\RectangleIntersection.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\RectangleIntersection.pdb

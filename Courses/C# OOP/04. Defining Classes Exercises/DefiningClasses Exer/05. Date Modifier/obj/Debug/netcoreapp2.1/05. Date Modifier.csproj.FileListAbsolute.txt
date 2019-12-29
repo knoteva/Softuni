@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.pdb

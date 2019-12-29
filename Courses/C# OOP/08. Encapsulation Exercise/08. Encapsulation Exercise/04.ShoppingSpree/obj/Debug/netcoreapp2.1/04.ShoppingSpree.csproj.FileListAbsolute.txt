@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.pdb

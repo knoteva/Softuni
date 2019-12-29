@@ -1,0 +1,11 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\obj\Debug\netcoreapp3.0\08.MilitaryElite.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\obj\Debug\netcoreapp3.0\08.MilitaryElite.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\obj\Debug\netcoreapp3.0\08.MilitaryElite.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\bin\Debug\netcoreapp3.0\08.MilitaryElite.exe
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\bin\Debug\netcoreapp3.0\08.MilitaryElite.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\bin\Debug\netcoreapp3.0\08.MilitaryElite.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\bin\Debug\netcoreapp3.0\08.MilitaryElite.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\bin\Debug\netcoreapp3.0\08.MilitaryElite.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\bin\Debug\netcoreapp3.0\08.MilitaryElite.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\obj\Debug\netcoreapp3.0\08.MilitaryElite.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\12. Interfaces and Abstraction Exercise\Interfaces and Abstraction - Exercise\08.MilitaryElite\obj\Debug\netcoreapp3.0\08.MilitaryElite.pdb

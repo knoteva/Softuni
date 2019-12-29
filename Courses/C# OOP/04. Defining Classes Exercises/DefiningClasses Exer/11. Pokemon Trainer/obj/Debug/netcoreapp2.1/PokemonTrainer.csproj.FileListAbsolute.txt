@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\PokemonTrainer.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\PokemonTrainer.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\PokemonTrainer.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\PokemonTrainer.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\PokemonTrainer.pdb

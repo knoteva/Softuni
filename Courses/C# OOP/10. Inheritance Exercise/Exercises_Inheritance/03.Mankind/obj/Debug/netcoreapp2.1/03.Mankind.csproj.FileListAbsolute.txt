@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\10. Inheritance Exercise\Exercises_Inheritance\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.csprojAssemblyReference.cache

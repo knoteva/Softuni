@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\bin\Debug\netcoreapp2.1\CompanyRoster.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\bin\Debug\netcoreapp2.1\CompanyRoster.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\bin\Debug\netcoreapp2.1\CompanyRoster.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\obj\Debug\netcoreapp2.1\CompanyRoster.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\04. Defining Classes Exercises\DefiningClasses Exer\06. Company Roster\obj\Debug\netcoreapp2.1\CompanyRoster.pdb

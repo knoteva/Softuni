@@ -1,0 +1,9 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\bin\Debug\netcoreapp2.1\BankAccount.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\bin\Debug\netcoreapp2.1\BankAccount.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\obj\Debug\netcoreapp2.1\BankAccount.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\03. Defining Classes Lab\Defining Classes - Lab\01. Bank Account\obj\Debug\netcoreapp2.1\BankAccount.pdb

@@ -1,0 +1,21 @@
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.deps.json
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.runtimeconfig.json
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.runtimeconfig.dev.json
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.dll
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.pdb
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfo.cs
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.dll
+D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\03.AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.pdb

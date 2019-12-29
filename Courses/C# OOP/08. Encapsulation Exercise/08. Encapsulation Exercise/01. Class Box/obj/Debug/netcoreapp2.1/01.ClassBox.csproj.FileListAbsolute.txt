@@ -1,0 +1,10 @@
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01.ClassBox.deps.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01.ClassBox.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01.ClassBox.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01.ClassBox.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01.ClassBox.pdb
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01.ClassBox.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01.ClassBox.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01.ClassBox.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01.ClassBox.dll
+D:\Programing\Softuni\01. C# OOP Basics - October 2019\08. Encapsulation Exercise\08. Encapsulation Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01.ClassBox.pdb
