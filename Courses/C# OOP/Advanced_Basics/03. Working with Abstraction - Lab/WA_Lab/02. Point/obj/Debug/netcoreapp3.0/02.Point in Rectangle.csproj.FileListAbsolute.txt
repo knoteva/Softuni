@@ -1,0 +1,11 @@
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02.Point in Rectangle.exe
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02.Point in Rectangle.deps.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02.Point in Rectangle.runtimeconfig.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02.Point in Rectangle.runtimeconfig.dev.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02.Point in Rectangle.dll
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\bin\Debug\netcoreapp3.0\02.Point in Rectangle.pdb
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02.Point in Rectangle.csprojAssemblyReference.cache
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02.Point in Rectangle.AssemblyInfoInputs.cache
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02.Point in Rectangle.AssemblyInfo.cs
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02.Point in Rectangle.dll
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02. Point in Rectangle\obj\Debug\netcoreapp3.0\02.Point in Rectangle.pdb

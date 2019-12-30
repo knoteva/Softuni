@@ -1,0 +1,10 @@
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\bin\Debug\netcoreapp3.0\Point.exe
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\bin\Debug\netcoreapp3.0\Point.deps.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\bin\Debug\netcoreapp3.0\Point.runtimeconfig.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\bin\Debug\netcoreapp3.0\Point.runtimeconfig.dev.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\bin\Debug\netcoreapp3.0\Point.dll
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\bin\Debug\netcoreapp3.0\Point.pdb
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\obj\Debug\netcoreapp3.0\Point.AssemblyInfoInputs.cache
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\obj\Debug\netcoreapp3.0\Point.AssemblyInfo.cs
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\obj\Debug\netcoreapp3.0\Point.dll
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\02.Point nRectangle\obj\Debug\netcoreapp3.0\Point.pdb

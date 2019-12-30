@@ -1,0 +1,11 @@
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\bin\Debug\netcoreapp3.0\Hotel.exe
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\bin\Debug\netcoreapp3.0\Hotel.deps.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\bin\Debug\netcoreapp3.0\Hotel.runtimeconfig.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\bin\Debug\netcoreapp3.0\Hotel.runtimeconfig.dev.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\bin\Debug\netcoreapp3.0\Hotel.dll
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\bin\Debug\netcoreapp3.0\Hotel.pdb
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\obj\Debug\netcoreapp3.0\Hotel.csprojAssemblyReference.cache
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\obj\Debug\netcoreapp3.0\Hotel.AssemblyInfoInputs.cache
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\obj\Debug\netcoreapp3.0\Hotel.AssemblyInfo.cs
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\obj\Debug\netcoreapp3.0\Hotel.dll
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\04.  Hotel Reservation\Hotel\Hotel\obj\Debug\netcoreapp3.0\Hotel.pdb

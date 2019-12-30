@@ -1,0 +1,11 @@
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.exe
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.deps.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.runtimeconfig.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.runtimeconfig.dev.json
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.dll
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\bin\Debug\netcoreapp3.1\01. Rhombus of Stars.pdb
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.csprojAssemblyReference.cache
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.AssemblyInfoInputs.cache
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.AssemblyInfo.cs
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.dll
+D:\Programing\Softuni\C# OOP - октомври 2019\03. Working with Abstraction - Lab\WA_Lab\01. Rhombus of Stars\obj\Debug\netcoreapp3.1\01. Rhombus of Stars.pdb
