@@ -1,0 +1,11 @@
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\03. Unit Tests_Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb

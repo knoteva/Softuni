@@ -1,0 +1,11 @@
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\01. C# OOP Exam - 15 December 2019\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb

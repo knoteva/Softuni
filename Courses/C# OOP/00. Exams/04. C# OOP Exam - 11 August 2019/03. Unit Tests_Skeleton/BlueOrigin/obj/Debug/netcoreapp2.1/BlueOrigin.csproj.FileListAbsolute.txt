@@ -1,0 +1,20 @@
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\04. C# OOP Exam - 11 August 2019\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb

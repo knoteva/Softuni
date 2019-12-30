@@ -1,0 +1,8 @@
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019_v2\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019_v2\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019_v2\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019_v2\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019_v2\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019_v2\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019_v2\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019_v2\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb

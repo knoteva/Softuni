@@ -1,0 +1,30 @@
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\02. C# OOP Demo Exam - 07 December 2019\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb

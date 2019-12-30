@@ -1,0 +1,26 @@
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\06. C# OOP Exam - 14 April 2019\03. Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.pdb

@@ -1,0 +1,20 @@
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.deps.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Programing\Softuni\01. C# OOP - февруари 2019\00. Exams\05. C# OOP Retake Exam - 18 April 2019\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.pdb

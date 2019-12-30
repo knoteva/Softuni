@@ -1,0 +1,21 @@
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.deps.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.dev.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.deps.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.dev.json
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.dll
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.pdb
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.dll
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.pdb
+D:\Programing\Softuni\C# OOP - февруари 2019\Exams\C# OOP Exam - 11 August 2019\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache

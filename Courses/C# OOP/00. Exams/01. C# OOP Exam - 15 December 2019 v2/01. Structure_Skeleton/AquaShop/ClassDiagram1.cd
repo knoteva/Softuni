@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AquaShop.Models.Aquariums.Aquarium" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAQAEAAAAIAAQCABCEAEAQgAAAAAAAAAA=</HashCode>
+      <FileName>Models\Aquariums\Aquarium.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AquaShop.Models.Aquariums.FreshwaterAquarium" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Aquariums\FreshwaterAquarium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AquaShop.Models.Aquariums.SaltwaterAquarium" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Aquariums\SaltwaterAquarium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AquaShop.Models.Decorations.Decoration" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Decorations\Decoration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AquaShop.Models.Decorations.Ornament" Collapsed="true">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Decorations\Ornament.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AquaShop.Models.Decorations.Plant" Collapsed="true">
+    <Position X="5.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Decorations\Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AquaShop.Models.Fish.Fish" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAEQAAgAAAAAAAAAQAAAAEAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Fish\Fish.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AquaShop.Models.Fish.FreshwaterFish" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Fish\FreshwaterFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AquaShop.Models.Fish.SaltwaterFish" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Fish\SaltwaterFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AquaShop.Repositories.DecorationRepository" Collapsed="true">
+    <Position X="10.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAAIgAA=</HashCode>
+      <FileName>Repositories\DecorationRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AquaShop.IO.Reader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\Reader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AquaShop.IO.Writer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IO\Writer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AquaShop.Core.Controller" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAEAAAAQAEAAAAAGgABAAQAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Core\Controller.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AquaShop.Core.Engine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAQAAI=</HashCode>
+      <FileName>Core\Engine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="AquaShop.Models.Aquariums.Contracts.IAquarium" Collapsed="true">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAQAEAAAAIAAQCABCAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Aquariums\Contracts\IAquarium.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AquaShop.Models.Decorations.Contracts.IDecoration" Collapsed="true">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Decorations\Contracts\IDecoration.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AquaShop.Models.Fish.Contracts.IFish" Collapsed="true">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAEQAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Fish\Contracts\IFish.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AquaShop.Repositories.Contracts.IRepository&lt;T&gt;" Collapsed="true">
+    <Position X="10.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAAAgAA=</HashCode>
+      <FileName>Repositories\Contracts\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AquaShop.IO.Contracts.IReader" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\Contracts\IReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AquaShop.IO.Contracts.IWriter" Collapsed="true">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IO\Contracts\IWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AquaShop.Core.Contracts.IController" Collapsed="true">
+    <Position X="6.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAQAEAAAAAGAAAAAQAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Core\Contracts\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AquaShop.Core.Contracts.IEngine" Collapsed="true">
+    <Position X="8.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Core\Contracts\IEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
