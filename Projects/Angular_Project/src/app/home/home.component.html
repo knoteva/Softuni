@@ -1,0 +1,9 @@
+<div *ngIf="notify" class="alert alert-success container marge">
+    {{ notify }}
+</div>
+<ng-container *ngIf="auth.isAuthenticated()">
+    <p class="container">This is the home page</p>
+</ng-container>
+<ng-container *ngIf="!auth.isAuthenticated()">
+    <p class="container">Please log in or register</p>
+</ng-container>
