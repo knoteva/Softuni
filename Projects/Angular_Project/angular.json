@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "fredericpinaud": {
+    "angularjwtauth": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/fredericpinaud",
+            "outputPath": "dist/angularjwtauth",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -24,15 +24,10 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/froala-editor/css/froala_editor.pkgd.min.css",
-              "./node_modules/froala-editor/css/froala_style.min.css",
-              "src/styles.css"
+              "src/styles.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": [
-              "./node_modules/froala-editor/js/froala_editor.min.js",
-              "./node_modules/froala-editor/js/plugins/image.min.js",
-              "./node_modules/froala-editor/js/froala_editor.pkgd.min.js"
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -58,8 +53,8 @@
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "100kb",
-                  "maximumError": "100kb"
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
                 }
               ]
             }
@@ -68,18 +63,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "fredericpinaud:build"
+            "browserTarget": "angularjwtauth:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "fredericpinaud:build:production"
+              "browserTarget": "angularjwtauth:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "fredericpinaud:build"
+            "browserTarget": "angularjwtauth:build"
           }
         },
         "test": {
@@ -94,21 +89,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "./node_modules/froala-editor/css/froala_editor.pkgd.min.css",
-              "./node_modules/froala-editor/css/froala_style.min.css"
+              "src/styles.css"
             ],
-            "scripts": [
-              "src/assets/js/jquery.min.js",
-              "src/assets/js/jquery.validate.js",
-              "src/assets/js/jquery.magnific-popup.js",
-              "src/assets/js/imagesloaded.pkgd.js",
-              "src/assets/js/isotope.pkgd.js",
-              "src/assets/js/jquery.slimscroll.js",
-              "src/assets/js/owl.carousel.js",
-              "src/assets/js/scripts.js",
-              "./node_modules/froala-editor/js/froala_editor.min.js"
-            ]
+            "scripts": []
           }
         },
         "lint": {
@@ -128,18 +111,18 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "fredericpinaud:serve"
+            "devServerTarget": "angularjwtauth:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "fredericpinaud:serve:production"
+              "devServerTarget": "angularjwtauth:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "fredericpinaud",
+  "defaultProject": "angularjwtauth",
   "cli": {
     "analytics": false
   }
