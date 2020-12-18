@@ -23,7 +23,7 @@ export class AuthService {
   constructor(private http: HttpClient) {
     this.decodedToken = JSON.parse(localStorage.getItem('auth_meta')) || new DecodedToken();
    }
-
+   authToken: any;
   public register(userData: any): Observable<any> {
     const URI = this.uriseg + '/register';
     return this.http.post(URI, userData);
@@ -35,14 +35,20 @@ export class AuthService {
       return this.saveToken(token);
     }));
   }
-
-  public profile(userData: any): Observable<any> {
+  profile(userData: any): Observable<any> {
     const URI = this.uriseg + '/profile';
-    return this.http.post(URI, userData).pipe(map(token => {
-      return this.saveToken(token);
-    }));
+    return this.http.get(URI, userData);
   }
 
+  // profile(userData: any): Observable<any> {
+  //   const URI = this.uriseg + '/profile';
+  //   return this.http.post(URI, userData);
+  // }
+
+  loadToken(){
+    const token = localStorage.getItem('id_token');
+    this.authToken = token;
+  }
 
   private saveToken(token: any): any {
     this.decodedToken = jwt.decodeToken(token);
