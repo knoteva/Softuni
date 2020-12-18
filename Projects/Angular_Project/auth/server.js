@@ -33,6 +33,7 @@ let corsOptions = {
 app.use(cors(corsOptions))
 app.use('/api/users', userRoute);
 require('./routes/usermanagement.router.js')(app);
+require('./routes/firmRoute.js')(app);
 
 app.listen(PORT, () => {
   console.log(`Server is running on PORT ${PORT}`);

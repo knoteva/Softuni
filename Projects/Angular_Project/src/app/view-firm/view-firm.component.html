@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="row">
+        <br>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="card mb-3 text-center">
+                <div class="card-header">
+                  <h3> {{ name }} </h3>
+                </div>
+                <div class="card-body">
+                  <a class="btn btn-primary" [routerLink]="['/update-firm', { id : id, name : name}]"> Update Firm Name </a> | 
+                  <button class="btn btn-danger" (click)="deleteButton()"> Delete Firm </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <br><br>
+    </div>
+    <div class="row" *ngIf=(deletecomp)>
+        <div class="col-sm-12">
+            <div class="card bg-warning mb-3 text-sm-center">
+                <div class="card-body">
+                  <h5 class="card-title">Are you sure you would like to delete this firm from the database?</h5>
+                  <button class="btn btn-danger" (click)="yesDelete()"> Yes </button> |
+                  <button class="btn btn-success" (click)="noDelete()"> No </button>
+                </div>
+              </div>
+        </div>
+    </div>
+</div>

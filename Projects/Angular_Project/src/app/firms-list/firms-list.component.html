@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="row">
+        <br><br>
+    </div>
+    <div class="row text-center">
+        <div class="col-6 offset-4">
+            <div class="table">
+                <thead>
+                    <tr>
+                        <th scope="col"> Name of the Firm </th>
+                        <th scopre="col"> View Details </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let c of firms">
+                        <td>{{ c.name }}</td>
+                    <td>
+                        <a class="btn btn-primary" [routerLink]="['/view-firm', { id : c._id, name : c.name}]"> View Details </a>
+                    </td>
+                    </tr>
+                </tbody>
+            </div>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="col-6 offset-3">
+            <a class="btn btn-success" [routerLink]="['/add-firm']"> Add New Firm </a>
+        </div>
+    </div>
+</div>
+
+
+
