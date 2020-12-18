@@ -3,4 +3,7 @@ module.exports = function(app) {
 
     app.get('/api/getusers', users.getUserDetails);
 
+    app.delete('/api/deleteuser/:id', users.deleteUser);
+
+    app.put('/api/updateuser', users.updateEmail);
 }

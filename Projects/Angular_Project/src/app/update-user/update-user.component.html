@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+        <br>
+    </div>
+    <div class="row">
+        <div class="col-4">
+            <form [formGroup]="userRef" (ngSubmit)="updateUser()">
+                <div class="form-group">
+                    <label> <h4> Update eMail address for <b> {{ current_username }} </b> </h4> </label>
+                    <input type="email" class="form-control" id="email" formControlName="email" placeholder="Enter new email address">
+                </div>
+                <div *ngIf=(emptyemail)>
+                    <p style="color: red;"><i> Please provide an email address </i></p>
+                </div>
+                <div *ngIf=(invalidemail)>
+                    <p style="color: red;"><i> Please enter a valid email address </i></p>
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Update">
+                </div>
+            </form>
+        </div>
+        
+    </div>
+</div>

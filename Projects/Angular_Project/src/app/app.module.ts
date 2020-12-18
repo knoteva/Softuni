@@ -12,7 +12,8 @@ import { AuthModule } from './auth/auth.module';
 
 
 import { UsersListComponent } from './users-list/users-list.component';
-
+import { DeleteUserComponent } from './delete-user/delete-user.component';
+import { UpdateUserComponent } from './update-user/update-user.component';
 
 
 @NgModule({
@@ -21,7 +22,9 @@ import { UsersListComponent } from './users-list/users-list.component';
     HeaderComponent,
     HomeComponent,
     ProfileComponent,
-    UsersListComponent
+    UsersListComponent,
+    DeleteUserComponent,
+    UpdateUserComponent
   ],
   imports: [
     BrowserModule,
