@@ -26,7 +26,7 @@ export class AuthGuard implements CanActivate {
     return false;
   }
   private isLoginOrRegister(): boolean {
-    if (this.url.includes('/auth/login') || this.url.includes('/auth/register') || this.url.includes('/auth/profile')) {
+    if (this.url.includes('/auth/login') || this.url.includes('/auth/register')) {
       return true;
     }
     return false;

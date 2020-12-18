@@ -15,19 +15,33 @@
             </a>
           </li>
          </ng-container>
-         <ng-container *ngIf="auth.isAuthenticated()">
-         <li class="nav-item" >
-          <a routerLink="/auth/profile" class="nav-link" routerLinkActive="active">
-            <!-- <a class="nav-link"> -->
-            {{ auth.getUsername() }}
+         <ng-container *ngIf="auth.isAuthenticated()">    
+          <li class="nav-item">
+            <a routerLink="/app-users-list" class="nav-link" routerLinkActive="active">
+            Users
             </a>
           </li>
-         <li class="nav-item">
+          <li class="nav-item">
+            <a routerLink="/firms-list" class="nav-link" routerLinkActive="active">
+            Firms
+            </a>
+          </li>
+          <li class="nav-item">
+            <a routerLink="/items-list" class="nav-link" routerLinkActive="active">
+            Items
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link">
+              {{ auth.getUsername() }}
+            </a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link pointer" (click)="logout()">
-            Logout
+              Logout
             </a>
           </li>
-         </ng-container>
+        </ng-container>
       </ul>
     </div>
   </div>

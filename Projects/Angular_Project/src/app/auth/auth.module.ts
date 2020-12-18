@@ -8,8 +8,6 @@ import { HttpClientModule } from '@angular/common/http';
 import { AuthComponent } from './auth.component';
 import { RegisterComponent } from './register/register.component';
 import { LoginComponent } from './login/login.component';
-import { ProfileComponent } from './profile/profile.component';
-
 
 import { AuthService } from './auth.service';
 import { AuthGuard } from './auth.guard';
@@ -20,8 +18,7 @@ const routes: Routes = [
     component: AuthComponent,
     children: [
       { path: 'login', component: LoginComponent, canActivate: [AuthGuard] },
-      { path: 'register', component: RegisterComponent, canActivate: [AuthGuard] },
-      { path: 'profile', component: ProfileComponent, canActivate: [AuthGuard] }
+      { path: 'register', component: RegisterComponent, canActivate: [AuthGuard] }
     ]
   }
 ];
@@ -30,7 +27,6 @@ const routes: Routes = [
   declarations: [
     RegisterComponent,
     LoginComponent,
-    ProfileComponent,
     AuthComponent
   ],
   imports: [

@@ -2,8 +2,14 @@
     {{ notify }}
 </div>
 <ng-container *ngIf="auth.isAuthenticated()">
-    <p class="container">This is the home page</p>
+
+    <a class="btn btn-info btn-lg btn-block" routerLink="app-users-list">Users Panel</a>
+
+    <a class="btn btn-info btn-lg btn-block" routerLink="firms-list">Firms Panel</a>
+
+    <a class="btn btn-info btn-lg btn-block" routerLink="items-list">Items Panel</a>
+
 </ng-container>
 <ng-container *ngIf="!auth.isAuthenticated()">
-    <p class="container">Please log in or register</p>
+    <p class="container text-center" style="color:red"><b>Please log in or register</b></p>
 </ng-container>
