@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="row">
+        <br><br>
+    </div>
+    <div class="row text-center">
+        <div class="col-8 offset-2">
+            <table class="table table-sm">
+                <thead>
+                    <th> User ID </th>
+                    <th> User eMail </th>
+                    <th> Update/Delete </th>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let u of users">
+                        <td> {{ u.username }}</td>
+                        <td> {{ u.email }} </td>
+                        <td>
+                            <a class="btn btn-success"  [routerLink]="['/update-users', { id : u._id}]"> Update email address</a> | 
+                            <a class="btn btn-danger" [routerLink]="['/delete-users', { id : u._id}]"> Delete Account</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
