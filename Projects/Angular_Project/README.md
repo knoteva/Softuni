@@ -1,27 +1,20 @@
-# Angularjwtauth
+# Angular Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
+This is a simple websaite for Angular course in Softuni
 
-## Development server
+## Website functionality
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Login, Register, Logout functionality
+2. Edit user email; Delete user
+3. Add new firm; View firm details; Edit firm; Delete firm
 
-## Code scaffolding
+## TODO
+1. Add functionality for Add, View, Edit, Delete items
+2. Add profile functionality
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Run the project
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+1. Install and MongoDB(see Mongo DB Installation Guide.docs)
+2. Run `npm install --save-dev @angular-devkit/build-angular` or `npm install -g @angular/cli`; `npm init -y`; `npm install bcryptjs body-parser cors express jsonwebtoken mongoose validator --save`; `npm install nodemon --save-dev`; 
+3. Start Angular development server: run `ng serve -o`
+4. Start the node server: Go inside the "auth" folder and run `nodemon server`
