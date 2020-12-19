@@ -1,6 +1,6 @@
 module.exports = function (app) {
 
-    var firms = require('../controllers/firm.controller.js')
+    var firms = require('../controllers/Firm.Controller.js')
 
     app.get('/api/firms', firms.findAll);
 

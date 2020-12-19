@@ -19,6 +19,7 @@ exports.findById = (req, res) => {
 };
 
 exports.addFirm = (req, res) => {
+    //TODO: Add validation
     Firm.create(req.body, (err, data) => {
         if (err) { throw err; }
         res.send(data);

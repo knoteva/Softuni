@@ -1,5 +1,5 @@
 module.exports = function(app) {
-    var users = require('../controllers/usermanagement.controller.js');
+    var users = require('../controllers/Usermanagement.Controller.js');
 
     app.get('/api/getusers', users.getUserDetails);
 
